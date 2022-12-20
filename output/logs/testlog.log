@@ -1,0 +1,1334 @@
+2022-11-17 00:33:12,716 - logger_File -INFO - React App is equal to React App
+2022-11-17 00:33:40,503 - logger_File -INFO - React App is equal to React App
+2022-11-17 00:36:13,461 - logger_File -INFO - React App is equal to React App
+2022-11-17 00:36:13,804 - logger_File -INFO - user clicked on Sign In option
+2022-11-17 00:40:57,146 - logger_File -INFO - React App is equal to React App
+2022-11-17 00:40:57,486 - logger_File -INFO - user clicked on Sign In option
+2022-11-17 00:40:58,054 - logger_File -INFO - user entered email ihateteacher@tek.com and password Tek@12345
+2022-11-17 00:40:58,245 - logger_File -INFO - user clicked on login button
+2022-11-17 00:43:36,722 - logger_File -INFO - React App is equal to React App
+2022-11-17 00:43:37,073 - logger_File -INFO - user clicked on Sign In option
+2022-11-17 00:43:37,660 - logger_File -INFO - user entered email sohail@tek.com and password Azada5001!
+2022-11-17 00:43:37,856 - logger_File -INFO - user clicked on login button
+2022-11-17 00:43:38,310 - logger_File -INFO - user logged in into account
+2022-11-17 00:55:13,771 - logger_File -INFO - React App is equal to React App
+2022-11-17 00:55:13,979 - logger_File -INFO - user clicked on Sign In option
+2022-11-17 01:06:24,422 - logger_File -INFO - React App is equal to React App
+2022-11-17 01:06:24,654 - logger_File -INFO - user clicked on Sign In option
+2022-11-17 01:06:24,795 - logger_File -INFO - User should get the from to fill up
+2022-11-17 01:06:25,431 - logger_File -INFO - user entered required information into sign up from
+2022-11-17 01:06:25,545 - logger_File -INFO - User sould be able to see his account
+2022-11-17 01:07:01,839 - logger_File -INFO - React App is equal to React App
+2022-11-17 01:07:02,061 - logger_File -INFO - user clicked on Sign In option
+2022-11-17 01:07:02,199 - logger_File -INFO - User should get the from to fill up
+2022-11-17 01:07:02,841 - logger_File -INFO - user entered required information into sign up from
+2022-11-17 01:07:02,956 - logger_File -INFO - User sould be able to see his account
+2022-11-17 01:26:16,807 - logger_File -INFO - React App is equal to React App
+2022-11-17 01:26:17,039 - logger_File -INFO - user clicked on Sign In option
+2022-11-17 01:26:17,193 - logger_File -INFO - User should get the from to fill up
+2022-11-17 01:26:17,899 - logger_File -INFO - user entered required information into sign up from
+2022-11-17 01:26:18,015 - logger_File -INFO - User sould be able to see his account
+2022-11-17 01:26:46,155 - logger_File -INFO - React App is equal to React App
+2022-11-17 01:26:46,392 - logger_File -INFO - user clicked on Sign In option
+2022-11-17 01:26:46,552 - logger_File -INFO - User should get the from to fill up
+2022-11-17 01:26:47,245 - logger_File -INFO - user entered required information into sign up from
+2022-11-17 01:26:47,367 - logger_File -INFO - User sould be able to see his account
+2022-11-17 01:27:55,862 - logger_File -INFO - React App is equal to React App
+2022-11-17 01:27:56,144 - logger_File -INFO - user clicked on Sign In option
+2022-11-17 01:27:56,284 - logger_File -INFO - User should get the from to fill up
+2022-11-17 01:27:57,039 - logger_File -INFO - user entered required information into sign up from
+2022-11-17 01:27:57,158 - logger_File -INFO - User sould be able to see his account
+2022-11-17 01:28:50,923 - logger_File -INFO - React App is equal to React App
+2022-11-17 01:28:51,199 - logger_File -INFO - user clicked on Sign In option
+2022-11-17 01:28:51,348 - logger_File -INFO - User should get the from to fill up
+2022-11-17 01:28:52,004 - logger_File -INFO - user entered required information into sign up from
+2022-11-17 01:28:52,116 - logger_File -INFO - User sould be able to see his account
+2022-11-17 14:47:03,731 - logger_File -INFO - React App is equal to React App
+2022-11-17 14:47:03,888 - logger_File -INFO - user clicked on Sign In option
+2022-11-17 14:47:04,144 - logger_File -INFO - user entered email sohail@tek.com and password Azada5001!
+2022-11-17 14:47:04,225 - logger_File -INFO - user clicked on login button
+2022-11-17 14:47:05,469 - logger_File -INFO - user logged in into account
+2022-11-17 14:47:09,050 - logger_File -INFO - React App is equal to React App
+2022-11-17 14:47:09,154 - logger_File -INFO - user clicked on Sign In option
+2022-11-17 14:47:09,244 - logger_File -INFO - User should get the from to fill up
+2022-11-17 14:47:09,666 - logger_File -INFO - user entered required information into sign up from
+2022-11-17 14:47:09,738 - logger_File -INFO - User sould be able to see his account
+2022-11-17 14:48:12,156 - logger_File -INFO - React App is equal to React App
+2022-11-17 14:48:12,281 - logger_File -INFO - user clicked on Sign In option
+2022-11-17 14:48:12,379 - logger_File -INFO - User should get the from to fill up
+2022-11-17 14:48:12,807 - logger_File -INFO - user entered required information into sign up from
+2022-11-17 14:48:12,882 - logger_File -INFO - User sould be able to see his account
+2022-11-17 14:48:13,321 - logger_File -INFO - User should be able to see the account page
+2022-11-17 15:23:49,289 - logger_File -INFO - React App is equal to React App
+2022-11-17 15:23:49,585 - logger_File -INFO - user clicked on Sign In option
+2022-11-17 15:23:49,964 - logger_File -INFO - user entered email sohail@tek.com and password Azada5001!
+2022-11-17 15:25:37,731 - logger_File -INFO - React App is equal to React App
+2022-11-17 15:25:37,954 - logger_File -INFO - user clicked on Sign In option
+2022-11-17 15:25:38,282 - logger_File -INFO - user entered email sohail@tek.com and password Azada5001!
+2022-11-17 15:25:38,403 - logger_File -INFO - user clicked on login button
+2022-11-17 15:25:38,809 - logger_File -INFO - user logged in into account
+2022-11-17 15:25:38,946 - logger_File -INFO - User should be on the account
+2022-11-17 15:59:20,347 - logger_File -INFO - React App is equal to React App
+2022-11-17 15:59:20,513 - logger_File -INFO - user clicked on Sign In option
+2022-11-17 15:59:20,814 - logger_File -INFO - user entered email sohail@tek.com and password Azada5001!
+2022-11-17 15:59:20,926 - logger_File -INFO - user clicked on login button
+2022-11-17 15:59:21,290 - logger_File -INFO - user logged in into account
+2022-11-17 15:59:54,616 - logger_File -INFO - React App is equal to React App
+2022-11-17 15:59:54,806 - logger_File -INFO - user clicked on Sign In option
+2022-11-17 15:59:55,144 - logger_File -INFO - user entered email sohail@tek.com and password Azada5001!
+2022-11-17 15:59:55,258 - logger_File -INFO - user clicked on login button
+2022-11-17 15:59:55,619 - logger_File -INFO - user logged in into account
+2022-11-17 15:59:55,752 - logger_File -INFO - User should be on the account
+2022-11-17 15:59:56,199 - logger_File -INFO - User should see the value
+2022-11-17 15:59:56,312 - logger_File -INFO - User sould see the Updated value
+2022-11-17 15:59:56,342 - logger_File -INFO - User sould see the unDated name and phone number
+2022-11-17 16:00:19,174 - logger_File -INFO - React App is equal to React App
+2022-11-17 16:00:19,577 - logger_File -INFO - user clicked on Sign In option
+2022-11-17 16:00:20,173 - logger_File -INFO - user entered email sohail@tek.com and password Azada5001!
+2022-11-17 16:00:20,818 - logger_File -INFO - user clicked on login button
+2022-11-17 16:00:21,428 - logger_File -INFO - user logged in into account
+2022-11-28 23:06:25,970 - logger_File -INFO - React App is equal to React App
+2022-11-28 23:06:26,095 - logger_File -INFO - user clicked on Sign In option
+2022-11-28 23:06:26,348 - logger_File -INFO - user entered email sohail@tek.com and password Azada5001!
+2022-11-28 23:06:26,432 - logger_File -INFO - user clicked on login button
+2022-11-28 23:06:26,830 - logger_File -INFO - user logged in into account
+2022-11-28 23:06:26,943 - logger_File -INFO - User should be on the account
+2022-11-28 23:06:27,202 - logger_File -INFO - User should see the value
+2022-11-28 23:06:27,278 - logger_File -INFO - User sould see the Updated value
+2022-11-28 23:06:27,301 - logger_File -INFO - User sould see the unDated name and phone number
+2022-11-28 23:52:45,452 - logger_File -INFO - React App is equal to React App
+2022-11-28 23:52:45,575 - logger_File -INFO - user clicked on Sign In option
+2022-11-28 23:52:45,800 - logger_File -INFO - user entered email sohail@tek.com and password Shadab916
+2022-11-28 23:53:20,663 - logger_File -INFO - React App is equal to React App
+2022-11-28 23:53:20,791 - logger_File -INFO - user clicked on Sign In option
+2022-11-28 23:53:21,022 - logger_File -INFO - user entered email sohail@tek.com and password Shadab916
+2022-11-28 23:53:21,098 - logger_File -INFO - user clicked on login button
+2022-11-28 23:57:01,445 - logger_File -INFO - React App is equal to React App
+2022-11-28 23:57:01,568 - logger_File -INFO - user clicked on Sign In option
+2022-11-28 23:57:01,798 - logger_File -INFO - user entered email sohail@tek.com and password Shadab@916
+2022-11-28 23:57:01,874 - logger_File -INFO - user clicked on login button
+2022-11-28 23:57:02,470 - logger_File -INFO - user logged in into account
+2022-11-28 23:57:02,571 - logger_File -INFO - User should be on the account
+2022-11-28 23:57:02,637 - logger_File -INFO - User should be on the account
+2022-11-28 23:59:15,607 - logger_File -INFO - React App is equal to React App
+2022-11-28 23:59:15,730 - logger_File -INFO - user clicked on Sign In option
+2022-11-28 23:59:15,952 - logger_File -INFO - user entered email sohail@tek.com and password Shadab@916
+2022-11-28 23:59:16,028 - logger_File -INFO - user clicked on login button
+2022-11-28 23:59:17,139 - logger_File -INFO - user logged in into account
+2022-11-28 23:59:17,237 - logger_File -INFO - User should be on the account
+2022-11-28 23:59:17,305 - logger_File -INFO - User should be on the account
+2022-11-29 00:01:43,834 - logger_File -INFO - React App is equal to React App
+2022-11-29 00:01:43,957 - logger_File -INFO - user clicked on Sign In option
+2022-11-29 00:01:44,184 - logger_File -INFO - user entered email sohail@tek.com and password Shadab@916
+2022-11-29 00:01:44,264 - logger_File -INFO - user clicked on login button
+2022-11-29 00:01:44,674 - logger_File -INFO - user logged in into account
+2022-11-29 00:01:44,777 - logger_File -INFO - User should be on the account
+2022-11-29 00:01:44,847 - logger_File -INFO - User should be on the account
+2022-11-29 00:03:28,778 - logger_File -INFO - React App is equal to React App
+2022-11-29 00:03:28,918 - logger_File -INFO - user clicked on Sign In option
+2022-11-29 00:03:29,145 - logger_File -INFO - user entered email sohail@tek.com and password Shadab@916
+2022-11-29 00:03:29,222 - logger_File -INFO - user clicked on login button
+2022-11-29 00:03:29,581 - logger_File -INFO - user logged in into account
+2022-11-29 00:03:29,682 - logger_File -INFO - User should be on the account
+2022-11-29 00:03:29,753 - logger_File -INFO - User should be on the account
+2022-11-29 00:04:52,172 - logger_File -INFO - React App is equal to React App
+2022-11-29 00:04:52,313 - logger_File -INFO - user clicked on Sign In option
+2022-11-29 00:04:52,546 - logger_File -INFO - user entered email sohail@tek.com and password Shadab@916
+2022-11-29 00:04:52,624 - logger_File -INFO - user clicked on login button
+2022-11-29 00:04:53,029 - logger_File -INFO - user logged in into account
+2022-11-29 00:04:53,135 - logger_File -INFO - User should be on the account
+2022-11-29 00:04:53,210 - logger_File -INFO - User should be on the account
+2022-11-29 00:08:16,762 - logger_File -INFO - React App is equal to React App
+2022-11-29 00:08:16,896 - logger_File -INFO - user clicked on Sign In option
+2022-11-29 00:08:17,145 - logger_File -INFO - user entered email sohail@tek.com and password Shadab@916
+2022-11-29 00:08:17,237 - logger_File -INFO - user clicked on login button
+2022-11-29 00:08:17,602 - logger_File -INFO - user logged in into account
+2022-11-29 00:08:17,726 - logger_File -INFO - User should be on the account
+2022-11-29 00:08:17,819 - logger_File -INFO - User should be on the account
+2022-11-29 00:09:45,200 - logger_File -INFO - React App is equal to React App
+2022-11-29 00:09:45,344 - logger_File -INFO - user clicked on Sign In option
+2022-11-29 00:09:45,599 - logger_File -INFO - user entered email sohail@tek.com and password Shadab@916
+2022-11-29 00:09:45,689 - logger_File -INFO - user clicked on login button
+2022-11-29 00:09:46,037 - logger_File -INFO - user logged in into account
+2022-11-29 00:09:46,146 - logger_File -INFO - User should be on the account
+2022-11-29 00:09:46,234 - logger_File -INFO - User should be on the account
+2022-11-29 00:24:25,659 - logger_File -INFO - React App is equal to React App
+2022-11-29 00:24:25,788 - logger_File -INFO - user clicked on Sign In option
+2022-11-29 00:24:26,021 - logger_File -INFO - user entered email sohail@tek.com and password Shadab@916
+2022-11-29 00:24:26,100 - logger_File -INFO - user clicked on login button
+2022-11-29 00:25:25,250 - logger_File -INFO - React App is equal to React App
+2022-11-29 00:25:25,384 - logger_File -INFO - user clicked on Sign In option
+2022-11-29 00:25:25,616 - logger_File -INFO - user entered email sohail@tek.com and password Shadab123@
+2022-11-29 00:25:25,694 - logger_File -INFO - user clicked on login button
+2022-11-29 00:25:26,555 - logger_File -INFO - user logged in into account
+2022-11-29 00:25:26,659 - logger_File -INFO - User should be on the account
+2022-11-29 00:25:26,753 - logger_File -INFO - User should be on the account
+2022-11-29 00:34:00,096 - logger_File -INFO - React App is equal to React App
+2022-11-29 00:34:00,234 - logger_File -INFO - user clicked on Sign In option
+2022-11-29 00:34:00,473 - logger_File -INFO - user entered email sohail@tek.com and password Shadab123@
+2022-11-29 00:34:00,551 - logger_File -INFO - user clicked on login button
+2022-11-29 00:34:01,709 - logger_File -INFO - user logged in into account
+2022-11-29 00:34:01,811 - logger_File -INFO - User should be on the account
+2022-11-29 00:34:01,883 - logger_File -INFO - User should be on the account
+2022-11-29 00:41:46,187 - logger_File -INFO - React App is equal to React App
+2022-11-29 00:41:46,315 - logger_File -INFO - user clicked on Sign In option
+2022-11-29 00:41:46,546 - logger_File -INFO - user entered email sohail@tek.com and password Shadab123@
+2022-11-29 00:41:46,627 - logger_File -INFO - user clicked on login button
+2022-11-29 00:41:47,031 - logger_File -INFO - user logged in into account
+2022-11-29 00:41:47,143 - logger_File -INFO - User should be on the account
+2022-11-29 00:41:47,214 - logger_File -INFO - User should be on the account
+2022-11-29 01:00:44,520 - logger_File -INFO - React App is equal to React App
+2022-11-29 01:00:44,647 - logger_File -INFO - user clicked on Sign In option
+2022-11-29 01:00:44,878 - logger_File -INFO - user entered email sohail@tek.com and password Shadab123@
+2022-11-29 01:00:44,957 - logger_File -INFO - user clicked on login button
+2022-11-29 01:00:45,358 - logger_File -INFO - user logged in into account
+2022-11-29 01:00:45,457 - logger_File -INFO - User should be on the account
+2022-11-29 01:00:45,523 - logger_File -INFO - User should be on the account
+2022-11-29 01:04:05,381 - logger_File -INFO - React App is equal to React App
+2022-11-29 01:04:05,505 - logger_File -INFO - user clicked on Sign In option
+2022-11-29 01:04:05,749 - logger_File -INFO - user entered email sohail@tek.com and password Shadab123@
+2022-11-29 01:04:05,826 - logger_File -INFO - user clicked on login button
+2022-11-29 01:04:06,221 - logger_File -INFO - user logged in into account
+2022-11-29 01:04:06,325 - logger_File -INFO - User should be on the account
+2022-11-29 01:04:06,391 - logger_File -INFO - User should be on the account
+2022-11-29 22:28:58,617 - logger_File -INFO - React App is equal to React App
+2022-11-29 22:28:58,748 - logger_File -INFO - user clicked on Sign In option
+2022-11-29 22:28:58,969 - logger_File -INFO - user entered email sohail@tek.com and password Shadab123@
+2022-11-29 22:28:59,048 - logger_File -INFO - user clicked on login button
+2022-11-29 22:28:59,505 - logger_File -INFO - user logged in into account
+2022-11-29 22:28:59,612 - logger_File -INFO - User should be on the account
+2022-11-29 22:28:59,702 - logger_File -INFO - User should be on the account
+2022-11-29 22:36:05,431 - logger_File -INFO - React App is equal to React App
+2022-11-29 22:36:05,560 - logger_File -INFO - user clicked on Sign In option
+2022-11-29 22:36:05,783 - logger_File -INFO - user entered email sohail@tek.com and password Shadab123@
+2022-11-29 22:36:05,856 - logger_File -INFO - user clicked on login button
+2022-11-29 22:36:07,807 - logger_File -INFO - user logged in into account
+2022-11-29 22:36:07,912 - logger_File -INFO - User should be on the account
+2022-11-29 22:36:07,980 - logger_File -INFO - User should be on the account
+2022-11-29 22:41:40,031 - logger_File -INFO - React App is equal to React App
+2022-11-29 22:41:40,161 - logger_File -INFO - user clicked on Sign In option
+2022-11-29 22:41:40,397 - logger_File -INFO - user entered email sohail@tek.com and password Shadab123@
+2022-11-29 22:41:40,477 - logger_File -INFO - user clicked on login button
+2022-11-29 22:41:40,931 - logger_File -INFO - user logged in into account
+2022-11-29 22:41:41,035 - logger_File -INFO - User should be on the account
+2022-11-29 22:41:41,099 - logger_File -INFO - User should be on the account
+2022-11-30 00:01:00,863 - logger_File -INFO - React App is equal to React App
+2022-11-30 00:01:00,984 - logger_File -INFO - user clicked on Sign In option
+2022-11-30 00:01:01,217 - logger_File -INFO - user entered email sohail@tek.com and password Shadab123@
+2022-11-30 00:01:01,292 - logger_File -INFO - user clicked on login button
+2022-11-30 00:01:01,832 - logger_File -INFO - user logged in into account
+2022-11-30 00:01:01,929 - logger_File -INFO - User should be on the account
+2022-11-30 12:34:07,644 - logger_File -INFO - React App is equal to React App
+2022-11-30 12:34:07,788 - logger_File -INFO - user clicked on Sign In option
+2022-11-30 12:34:08,027 - logger_File -INFO - user entered email sohail@tek.com and password Shadab123@
+2022-11-30 12:34:08,110 - logger_File -INFO - user clicked on login button
+2022-11-30 12:34:08,510 - logger_File -INFO - user logged in into account
+2022-11-30 12:34:08,612 - logger_File -INFO - User should be on the account
+2022-11-30 12:34:08,691 - logger_File -INFO - User should be on the account
+2022-11-30 12:34:09,030 - logger_File -INFO - User should be able to change password
+2022-11-30 12:34:11,124 - logger_File -INFO - User should be able to change her password succesfully 
+2022-11-30 12:36:07,780 - logger_File -INFO - React App is equal to React App
+2022-11-30 12:36:07,914 - logger_File -INFO - user clicked on Sign In option
+2022-11-30 12:36:08,158 - logger_File -INFO - user entered email sohail@tek.com and password Shadab123@
+2022-11-30 12:36:08,236 - logger_File -INFO - user clicked on login button
+2022-11-30 12:36:48,563 - logger_File -INFO - React App is equal to React App
+2022-11-30 12:36:48,705 - logger_File -INFO - user clicked on Sign In option
+2022-11-30 12:36:48,951 - logger_File -INFO - user entered email sohail@tek.com and password Shadab916@
+2022-11-30 12:36:49,031 - logger_File -INFO - user clicked on login button
+2022-11-30 12:36:49,428 - logger_File -INFO - user logged in into account
+2022-11-30 12:36:49,532 - logger_File -INFO - User should be on the account
+2022-11-30 12:36:49,611 - logger_File -INFO - User should be on the account
+2022-11-30 12:36:49,941 - logger_File -INFO - User should be able to change password
+2022-11-30 12:36:52,029 - logger_File -INFO - User should be able to change her password succesfully 
+2022-11-30 12:48:03,905 - logger_File -INFO - React App is equal to React App
+2022-11-30 12:48:04,038 - logger_File -INFO - user clicked on Sign In option
+2022-11-30 12:48:04,275 - logger_File -INFO - user entered email sohail@tek.com and password Shadab123@
+2022-11-30 12:48:04,353 - logger_File -INFO - user clicked on login button
+2022-11-30 12:48:04,722 - logger_File -INFO - user logged in into account
+2022-11-30 12:48:04,822 - logger_File -INFO - User should be on the account
+2022-11-30 12:48:04,892 - logger_File -INFO - User should be on the account
+2022-11-30 12:48:05,214 - logger_File -INFO - User should be able to change password
+2022-11-30 12:48:07,312 - logger_File -INFO - User should be able to change her password succesfully 
+2022-11-30 12:54:57,860 - logger_File -INFO - React App is equal to React App
+2022-11-30 12:54:57,984 - logger_File -INFO - user clicked on Sign In option
+2022-11-30 12:54:58,217 - logger_File -INFO - user entered email sohail@tek.com and password Shadab916@
+2022-11-30 12:54:58,296 - logger_File -INFO - user clicked on login button
+2022-11-30 12:54:58,656 - logger_File -INFO - user logged in into account
+2022-11-30 12:54:58,758 - logger_File -INFO - User should be on the account
+2022-11-30 12:54:58,831 - logger_File -INFO - User should be on the account
+2022-11-30 12:54:59,153 - logger_File -INFO - User should be able to change password
+2022-11-30 12:55:01,238 - logger_File -INFO - User should be able to change her password succesfully 
+2022-11-30 12:55:03,275 - logger_File -INFO - User should be able to see the that the pass world was changed succsefully
+2022-11-30 13:48:08,361 - logger_File -INFO - React App is equal to React App
+2022-11-30 13:48:08,502 - logger_File -INFO - user clicked on Sign In option
+2022-11-30 13:48:08,746 - logger_File -INFO - user entered email sohail@tek.com and password Shadab916@
+2022-11-30 13:48:08,823 - logger_File -INFO - user clicked on login button
+2022-11-30 13:48:50,518 - logger_File -INFO - React App is equal to React App
+2022-11-30 13:48:50,647 - logger_File -INFO - user clicked on Sign In option
+2022-11-30 13:48:50,896 - logger_File -INFO - user entered email sohail@tek.com and password Shadab9166@
+2022-11-30 13:48:50,972 - logger_File -INFO - user clicked on login button
+2022-11-30 13:48:51,376 - logger_File -INFO - user logged in into account
+2022-11-30 13:48:51,480 - logger_File -INFO - User should be on the account
+2022-11-30 13:48:51,571 - logger_File -INFO - User should be on the account
+2022-11-30 13:48:51,707 - logger_File -INFO - User should see the where to write the crad information
+2022-11-30 13:48:52,134 - logger_File -INFO - User should fill out all the information
+2022-11-30 13:48:52,212 - logger_File -INFO - User should be able see the submitbtn
+2022-11-30 13:50:38,352 - logger_File -INFO - React App is equal to React App
+2022-11-30 13:50:38,502 - logger_File -INFO - user clicked on Sign In option
+2022-11-30 13:50:38,753 - logger_File -INFO - user entered email sohail@tek.com and password Shadab9166@
+2022-11-30 13:50:38,828 - logger_File -INFO - user clicked on login button
+2022-11-30 13:50:39,191 - logger_File -INFO - user logged in into account
+2022-11-30 13:50:39,292 - logger_File -INFO - User should be on the account
+2022-11-30 13:50:39,395 - logger_File -INFO - User should be on the account
+2022-11-30 13:50:39,662 - logger_File -INFO - User should see the where to write the crad information
+2022-11-30 13:52:33,183 - logger_File -INFO - React App is equal to React App
+2022-11-30 13:52:33,376 - logger_File -INFO - user clicked on Sign In option
+2022-11-30 13:52:33,630 - logger_File -INFO - user entered email sohail@tek.com and password Shadab9166@
+2022-11-30 13:52:33,720 - logger_File -INFO - user clicked on login button
+2022-11-30 13:52:34,086 - logger_File -INFO - user logged in into account
+2022-11-30 13:52:34,195 - logger_File -INFO - User should be on the account
+2022-11-30 13:52:34,326 - logger_File -INFO - User should be on the account
+2022-11-30 13:52:34,460 - logger_File -INFO - User should see the where to write the crad information
+2022-11-30 13:52:35,001 - logger_File -INFO - User should fill out all the information
+2022-11-30 13:52:35,080 - logger_File -INFO - User should be able see the submitbtn
+2022-12-01 22:21:44,761 - logger_File -INFO - React App is equal to React App
+2022-12-01 22:21:44,896 - logger_File -INFO - user clicked on Sign In option
+2022-12-01 22:21:45,142 - logger_File -INFO - user entered email sohail@tek.com and password Shadab9166@
+2022-12-01 22:21:45,218 - logger_File -INFO - user clicked on login button
+2022-12-01 22:21:45,611 - logger_File -INFO - user logged in into account
+2022-12-01 22:21:45,720 - logger_File -INFO - User should be on the account
+2022-12-01 22:21:45,798 - logger_File -INFO - User should be on the account
+2022-12-01 22:37:46,712 - logger_File -INFO - React App is equal to React App
+2022-12-01 22:37:46,869 - logger_File -INFO - user clicked on Sign In option
+2022-12-01 22:37:47,158 - logger_File -INFO - user entered email sohail@tek.com and password Shadab9166@
+2022-12-01 22:37:47,249 - logger_File -INFO - user clicked on login button
+2022-12-01 22:37:47,795 - logger_File -INFO - user logged in into account
+2022-12-01 22:37:47,914 - logger_File -INFO - User should be on the account
+2022-12-01 22:37:48,020 - logger_File -INFO - User should be on the account
+2022-12-01 22:42:06,284 - logger_File -INFO - React App is equal to React App
+2022-12-01 22:42:06,440 - logger_File -INFO - user clicked on Sign In option
+2022-12-01 22:42:06,721 - logger_File -INFO - user entered email sohail@tek.com and password Shadab9166@
+2022-12-01 22:42:06,807 - logger_File -INFO - user clicked on login button
+2022-12-01 22:42:07,176 - logger_File -INFO - user logged in into account
+2022-12-01 22:42:07,282 - logger_File -INFO - User should be on the account
+2022-12-01 22:42:07,369 - logger_File -INFO - User should be on the account
+2022-12-01 22:48:51,323 - logger_File -INFO - React App is equal to React App
+2022-12-01 22:48:51,478 - logger_File -INFO - user clicked on Sign In option
+2022-12-01 22:48:51,759 - logger_File -INFO - user entered email sohail@tek.com and password Shadab9166@
+2022-12-01 22:48:51,846 - logger_File -INFO - user clicked on login button
+2022-12-01 22:48:52,249 - logger_File -INFO - user logged in into account
+2022-12-01 22:48:52,357 - logger_File -INFO - User should be on the account
+2022-12-01 22:48:52,448 - logger_File -INFO - User should be on the account
+2022-12-01 23:03:39,861 - logger_File -INFO - React App is equal to React App
+2022-12-01 23:03:40,021 - logger_File -INFO - user clicked on Sign In option
+2022-12-01 23:03:40,259 - logger_File -INFO - user entered email sohail@tek.com and password Shadab9166@
+2022-12-01 23:03:40,341 - logger_File -INFO - user clicked on login button
+2022-12-01 23:03:40,737 - logger_File -INFO - user logged in into account
+2022-12-01 23:03:40,837 - logger_File -INFO - User should be on the account
+2022-12-01 23:03:40,925 - logger_File -INFO - User should be on the account
+2022-12-01 23:03:41,397 - logger_File -INFO - 1314is selected
+2022-12-01 23:15:39,688 - logger_File -INFO - React App is equal to React App
+2022-12-01 23:15:39,866 - logger_File -INFO - user clicked on Sign In option
+2022-12-01 23:15:40,140 - logger_File -INFO - user entered email sohail@tek.com and password Shadab9166@
+2022-12-01 23:15:40,240 - logger_File -INFO - user clicked on login button
+2022-12-01 23:15:40,602 - logger_File -INFO - user logged in into account
+2022-12-01 23:15:40,711 - logger_File -INFO - User should be on the account
+2022-12-01 23:15:40,804 - logger_File -INFO - User should be on the account
+2022-12-01 23:15:41,033 - logger_File -INFO - 1314is selected
+2022-12-01 23:17:42,793 - logger_File -INFO - React App is equal to React App
+2022-12-01 23:17:43,077 - logger_File -INFO - user clicked on Sign In option
+2022-12-01 23:17:43,376 - logger_File -INFO - user entered email sohail@tek.com and password Shadab9166@
+2022-12-01 23:17:43,491 - logger_File -INFO - user clicked on login button
+2022-12-01 23:17:43,851 - logger_File -INFO - user logged in into account
+2022-12-01 23:17:43,972 - logger_File -INFO - User should be on the account
+2022-12-01 23:17:44,101 - logger_File -INFO - User should be on the account
+2022-12-01 23:22:21,660 - logger_File -INFO - React App is equal to React App
+2022-12-01 23:22:21,854 - logger_File -INFO - user clicked on Sign In option
+2022-12-01 23:22:22,162 - logger_File -INFO - user entered email sohail@tek.com and password Shadab9166@
+2022-12-01 23:22:22,258 - logger_File -INFO - user clicked on login button
+2022-12-01 23:22:22,674 - logger_File -INFO - user logged in into account
+2022-12-01 23:22:22,796 - logger_File -INFO - User should be on the account
+2022-12-01 23:22:22,907 - logger_File -INFO - User should be on the account
+2022-12-01 23:22:53,825 - logger_File -INFO - React App is equal to React App
+2022-12-01 23:22:54,022 - logger_File -INFO - user clicked on Sign In option
+2022-12-01 23:22:54,343 - logger_File -INFO - user entered email sohail@tek.com and password Shadab9166@
+2022-12-01 23:22:54,441 - logger_File -INFO - user clicked on login button
+2022-12-01 23:22:54,800 - logger_File -INFO - user logged in into account
+2022-12-01 23:22:54,921 - logger_File -INFO - User should be on the account
+2022-12-01 23:22:55,033 - logger_File -INFO - User should be on the account
+2022-12-01 23:26:21,971 - logger_File -INFO - React App is equal to React App
+2022-12-01 23:26:22,190 - logger_File -INFO - user clicked on Sign In option
+2022-12-01 23:26:22,499 - logger_File -INFO - user entered email sohail@tek.com and password Shadab9166@
+2022-12-01 23:26:22,610 - logger_File -INFO - user clicked on login button
+2022-12-01 23:26:22,960 - logger_File -INFO - user logged in into account
+2022-12-01 23:26:23,085 - logger_File -INFO - User should be on the account
+2022-12-01 23:26:23,220 - logger_File -INFO - User should be on the account
+2022-12-01 23:37:54,314 - logger_File -INFO - React App is equal to React App
+2022-12-01 23:37:54,456 - logger_File -INFO - user clicked on Sign In option
+2022-12-01 23:37:54,689 - logger_File -INFO - user entered email sohail@tek.com and password Shadab9166@
+2022-12-01 23:37:54,763 - logger_File -INFO - user clicked on login button
+2022-12-01 23:37:55,174 - logger_File -INFO - user logged in into account
+2022-12-01 23:37:55,278 - logger_File -INFO - User should be on the account
+2022-12-01 23:37:55,348 - logger_File -INFO - User should be on the account
+2022-12-01 23:41:29,458 - logger_File -INFO - React App is equal to React App
+2022-12-01 23:41:29,601 - logger_File -INFO - user clicked on Sign In option
+2022-12-01 23:41:29,841 - logger_File -INFO - user entered email sohail@tek.com and password Shadab9166@
+2022-12-01 23:41:29,919 - logger_File -INFO - user clicked on login button
+2022-12-01 23:41:30,309 - logger_File -INFO - user logged in into account
+2022-12-01 23:41:30,420 - logger_File -INFO - User should be on the account
+2022-12-01 23:41:30,495 - logger_File -INFO - User should be on the account
+2022-12-01 23:41:30,601 - logger_File -INFO - User should be able to click on Add Pyment Method Link
+2022-12-01 23:41:31,033 - logger_File -INFO - User should fill out all the information
+2022-12-01 23:41:31,133 - logger_File -INFO - User should be able see the submitbtn
+2022-12-01 23:44:06,737 - logger_File -INFO - React App is equal to React App
+2022-12-01 23:44:06,877 - logger_File -INFO - user clicked on Sign In option
+2022-12-01 23:44:07,100 - logger_File -INFO - user entered email sohail@tek.com and password Shadab9166@
+2022-12-01 23:44:07,176 - logger_File -INFO - user clicked on login button
+2022-12-01 23:44:08,002 - logger_File -INFO - user logged in into account
+2022-12-01 23:44:08,104 - logger_File -INFO - User should be on the account
+2022-12-01 23:44:08,179 - logger_File -INFO - User should be on the account
+2022-12-01 23:45:00,259 - logger_File -INFO - React App is equal to React App
+2022-12-01 23:45:00,410 - logger_File -INFO - user clicked on Sign In option
+2022-12-01 23:45:00,640 - logger_File -INFO - user entered email sohail@tek.com and password Shadab9166@
+2022-12-01 23:45:00,714 - logger_File -INFO - user clicked on login button
+2022-12-01 23:45:01,072 - logger_File -INFO - user logged in into account
+2022-12-01 23:45:01,176 - logger_File -INFO - User should be on the account
+2022-12-01 23:45:01,253 - logger_File -INFO - User should be on the account
+2022-12-02 00:13:48,814 - logger_File -INFO - React App is equal to React App
+2022-12-02 00:13:48,947 - logger_File -INFO - user clicked on Sign In option
+2022-12-02 00:13:49,185 - logger_File -INFO - user entered email sohail@tek.com and password Shadab9166@
+2022-12-02 00:13:49,261 - logger_File -INFO - user clicked on login button
+2022-12-02 00:13:49,624 - logger_File -INFO - user logged in into account
+2022-12-02 00:13:49,732 - logger_File -INFO - User should be on the account
+2022-12-02 00:13:49,807 - logger_File -INFO - User should be on the account
+2022-12-02 00:28:23,955 - logger_File -INFO - React App is equal to React App
+2022-12-02 00:28:24,092 - logger_File -INFO - user clicked on Sign In option
+2022-12-02 00:28:24,356 - logger_File -INFO - user entered email sohail@tek.com and password Shadab9166@
+2022-12-02 00:28:24,434 - logger_File -INFO - user clicked on login button
+2022-12-02 00:28:24,801 - logger_File -INFO - user logged in into account
+2022-12-02 00:28:24,911 - logger_File -INFO - User should be on the account
+2022-12-02 00:28:52,054 - logger_File -INFO - React App is equal to React App
+2022-12-02 00:28:52,158 - logger_File -INFO - user clicked on Sign In option
+2022-12-02 00:28:52,367 - logger_File -INFO - user entered email sohail@tek.com and password Shadab9166@
+2022-12-02 00:28:52,438 - logger_File -INFO - user clicked on login button
+2022-12-02 00:28:52,794 - logger_File -INFO - user logged in into account
+2022-12-02 00:28:52,890 - logger_File -INFO - User should be on the account
+2022-12-02 00:28:52,955 - logger_File -INFO - User should be on the account
+2022-12-02 00:28:53,211 - logger_File -INFO - User should be able to change the name and phone number
+2022-12-02 00:28:53,288 - logger_File -INFO - User sould see the Updated value
+2022-12-02 00:28:53,306 - logger_File -INFO - User sould see the unDated name and phone number
+2022-12-02 00:28:56,694 - logger_File -INFO - React App is equal to React App
+2022-12-02 00:28:56,798 - logger_File -INFO - user clicked on Sign In option
+2022-12-02 00:28:57,003 - logger_File -INFO - user entered email sohail@tek.com and password Shadab9166@
+2022-12-02 00:28:57,071 - logger_File -INFO - user clicked on login button
+2022-12-02 00:28:57,435 - logger_File -INFO - user logged in into account
+2022-12-02 00:28:57,537 - logger_File -INFO - User should be on the account
+2022-12-02 00:28:57,625 - logger_File -INFO - User should be on the account
+2022-12-02 00:28:57,974 - logger_File -INFO - User should be able to change password
+2022-12-02 00:29:00,065 - logger_File -INFO - User should be able to change her password succesfully 
+2022-12-02 00:29:02,097 - logger_File -INFO - User should be able to see the that the pass world was changed succsefully
+2022-12-02 00:29:20,938 - logger_File -INFO - React App is equal to React App
+2022-12-02 00:29:21,089 - logger_File -INFO - user clicked on Sign In option
+2022-12-02 00:29:21,322 - logger_File -INFO - user entered email sohail@tek.com and password Shadab9166@
+2022-12-02 00:29:21,406 - logger_File -INFO - user clicked on login button
+2022-12-02 00:29:21,802 - logger_File -INFO - user logged in into account
+2022-12-02 00:29:21,911 - logger_File -INFO - User should be on the account
+2022-12-02 00:29:21,995 - logger_File -INFO - User should be on the account
+2022-12-02 00:29:45,578 - logger_File -INFO - React App is equal to React App
+2022-12-02 00:29:45,740 - logger_File -INFO - user clicked on Sign In option
+2022-12-02 00:29:45,989 - logger_File -INFO - user entered email sohail@tek.com and password Shadab9166@
+2022-12-02 00:29:46,078 - logger_File -INFO - user clicked on login button
+2022-12-02 00:29:46,441 - logger_File -INFO - user logged in into account
+2022-12-02 00:29:46,545 - logger_File -INFO - User should be on the account
+2022-12-02 00:29:46,629 - logger_File -INFO - User should be on the account
+2022-12-02 00:30:23,586 - logger_File -INFO - React App is equal to React App
+2022-12-02 00:30:23,696 - logger_File -INFO - user clicked on Sign In option
+2022-12-02 00:30:23,922 - logger_File -INFO - user entered email sohail@tek.com and password Shadab9166@
+2022-12-02 00:30:23,999 - logger_File -INFO - user clicked on login button
+2022-12-02 00:30:24,586 - logger_File -INFO - user logged in into account
+2022-12-02 00:30:24,682 - logger_File -INFO - User should be on the account
+2022-12-02 00:30:24,752 - logger_File -INFO - User should be on the account
+2022-12-02 00:44:50,200 - logger_File -INFO - React App is equal to React App
+2022-12-02 00:44:50,325 - logger_File -INFO - user clicked on Sign In option
+2022-12-02 00:44:50,553 - logger_File -INFO - user entered email sohail@tek.com and password Shadab9166@
+2022-12-02 00:44:50,627 - logger_File -INFO - user clicked on login button
+2022-12-02 00:44:51,020 - logger_File -INFO - user logged in into account
+2022-12-02 00:44:51,123 - logger_File -INFO - User should be on the account
+2022-12-02 00:44:51,196 - logger_File -INFO - User should be on the account
+2022-12-02 00:44:51,331 - logger_File -INFO - User should see the form to fill out the information
+2022-12-02 00:44:52,205 - logger_File -INFO - User should see all the information they fill out
+2022-12-02 00:44:52,305 - logger_File -INFO - user should add the address
+2022-12-02 00:47:09,667 - logger_File -INFO - React App is equal to React App
+2022-12-02 00:47:09,800 - logger_File -INFO - user clicked on Sign In option
+2022-12-02 00:47:10,037 - logger_File -INFO - user entered email sohail@tek.com and password Shadab9166@
+2022-12-02 00:47:10,112 - logger_File -INFO - user clicked on login button
+2022-12-02 00:47:10,473 - logger_File -INFO - user logged in into account
+2022-12-02 00:47:10,576 - logger_File -INFO - User should be on the account
+2022-12-02 00:47:10,653 - logger_File -INFO - User should be on the account
+2022-12-02 00:47:10,824 - logger_File -INFO - User should see the form to fill out the information
+2022-12-02 00:47:11,703 - logger_File -INFO - User should see all the information they fill out
+2022-12-02 00:47:21,821 - logger_File -INFO - user should add the address
+2022-12-02 00:49:09,978 - logger_File -INFO - React App is equal to React App
+2022-12-02 00:49:10,127 - logger_File -INFO - user clicked on Sign In option
+2022-12-02 00:49:10,393 - logger_File -INFO - user entered email sohail@tek.com and password Shadab9166@
+2022-12-02 00:49:10,477 - logger_File -INFO - user clicked on login button
+2022-12-02 00:49:10,891 - logger_File -INFO - user logged in into account
+2022-12-02 00:49:10,998 - logger_File -INFO - User should be on the account
+2022-12-02 00:49:11,088 - logger_File -INFO - User should be on the account
+2022-12-02 00:49:11,254 - logger_File -INFO - User should see the form to fill out the information
+2022-12-02 00:49:12,209 - logger_File -INFO - User should see all the information they fill out
+2022-12-02 00:49:22,334 - logger_File -INFO - user should add the address
+2022-12-02 00:49:56,037 - logger_File -INFO - React App is equal to React App
+2022-12-02 00:49:56,207 - logger_File -INFO - user clicked on Sign In option
+2022-12-02 00:49:56,459 - logger_File -INFO - user entered email sohail@tek.com and password Shadab9166@
+2022-12-02 00:49:56,551 - logger_File -INFO - user clicked on login button
+2022-12-02 00:49:56,943 - logger_File -INFO - user logged in into account
+2022-12-02 00:49:57,051 - logger_File -INFO - User should be on the account
+2022-12-02 00:49:57,156 - logger_File -INFO - User should be on the account
+2022-12-02 00:49:57,351 - logger_File -INFO - User should see the form to fill out the information
+2022-12-02 00:49:58,297 - logger_File -INFO - User should see all the information they fill out
+2022-12-02 00:50:08,425 - logger_File -INFO - user should add the address
+2022-12-02 01:01:10,368 - logger_File -INFO - React App is equal to React App
+2022-12-02 01:01:10,552 - logger_File -INFO - user clicked on Sign In option
+2022-12-02 01:01:10,851 - logger_File -INFO - user entered email sohail@tek.com and password Shadab9166@
+2022-12-02 01:01:10,953 - logger_File -INFO - user clicked on login button
+2022-12-02 01:01:11,309 - logger_File -INFO - user logged in into account
+2022-12-02 01:01:11,425 - logger_File -INFO - User should be on the account
+2022-12-02 01:01:11,542 - logger_File -INFO - User should be on the account
+2022-12-02 01:01:11,769 - logger_File -INFO - User should see the form to fill out the information
+2022-12-02 01:02:53,970 - logger_File -INFO - React App is equal to React App
+2022-12-02 01:02:54,123 - logger_File -INFO - user clicked on Sign In option
+2022-12-02 01:02:54,410 - logger_File -INFO - user entered email sohail@tek.com and password Shadab9166@
+2022-12-02 01:02:54,503 - logger_File -INFO - user clicked on login button
+2022-12-02 01:02:54,874 - logger_File -INFO - user logged in into account
+2022-12-02 01:02:54,994 - logger_File -INFO - User should be on the account
+2022-12-02 01:02:55,105 - logger_File -INFO - User should be on the account
+2022-12-02 01:02:55,308 - logger_File -INFO - User should see the form to fill out the information
+2022-12-02 01:06:50,643 - logger_File -INFO - React App is equal to React App
+2022-12-02 01:06:50,843 - logger_File -INFO - user clicked on Sign In option
+2022-12-02 01:06:51,123 - logger_File -INFO - user entered email sohail@tek.com and password Shadab9166@
+2022-12-02 01:06:51,228 - logger_File -INFO - user clicked on login button
+2022-12-02 01:06:51,586 - logger_File -INFO - user logged in into account
+2022-12-02 01:06:51,711 - logger_File -INFO - User should be on the account
+2022-12-02 01:06:51,830 - logger_File -INFO - User should be on the account
+2022-12-02 01:06:52,077 - logger_File -INFO - User should see the form to fill out the information
+2022-12-02 01:09:08,193 - logger_File -INFO - React App is equal to React App
+2022-12-02 01:09:08,372 - logger_File -INFO - user clicked on Sign In option
+2022-12-02 01:09:08,695 - logger_File -INFO - user entered email sohail@tek.com and password Shadab9166@
+2022-12-02 01:09:08,803 - logger_File -INFO - user clicked on login button
+2022-12-02 01:09:09,178 - logger_File -INFO - user logged in into account
+2022-12-02 01:09:09,314 - logger_File -INFO - User should be on the account
+2022-12-02 01:09:09,456 - logger_File -INFO - User should be on the account
+2022-12-02 01:09:09,724 - logger_File -INFO - User should see the form to fill out the information
+2022-12-02 01:11:03,893 - logger_File -INFO - React App is equal to React App
+2022-12-02 01:11:04,094 - logger_File -INFO - user clicked on Sign In option
+2022-12-02 01:11:04,385 - logger_File -INFO - user entered email sohail@tek.com and password Shadab9166@
+2022-12-02 01:11:04,484 - logger_File -INFO - user clicked on login button
+2022-12-02 01:11:04,867 - logger_File -INFO - user logged in into account
+2022-12-02 01:11:04,992 - logger_File -INFO - User should be on the account
+2022-12-02 01:11:05,100 - logger_File -INFO - User should be on the account
+2022-12-02 01:11:05,345 - logger_File -INFO - User should see the form to fill out the information
+2022-12-02 01:13:15,637 - logger_File -INFO - React App is equal to React App
+2022-12-02 01:13:15,843 - logger_File -INFO - user clicked on Sign In option
+2022-12-02 01:13:16,158 - logger_File -INFO - user entered email sohail@tek.com and password Shadab9166@
+2022-12-02 01:13:16,265 - logger_File -INFO - user clicked on login button
+2022-12-02 01:13:16,665 - logger_File -INFO - user logged in into account
+2022-12-02 01:13:16,825 - logger_File -INFO - User should be on the account
+2022-12-02 01:13:16,983 - logger_File -INFO - User should be on the account
+2022-12-02 01:13:17,221 - logger_File -INFO - User should see the form to fill out the information
+2022-12-02 23:38:56,775 - logger_File -INFO - React App is equal to React App
+2022-12-02 23:38:56,951 - logger_File -INFO - user clicked on Sign In option
+2022-12-02 23:38:57,237 - logger_File -INFO - user entered email sohail@tek.com and password Shadab9166@
+2022-12-02 23:38:57,328 - logger_File -INFO - user clicked on login button
+2022-12-02 23:38:58,174 - logger_File -INFO - user logged in into account
+2022-12-02 23:38:58,289 - logger_File -INFO - User should be on the account
+2022-12-02 23:38:58,401 - logger_File -INFO - User should be on the account
+2022-12-02 23:38:58,455 - logger_File -INFO - 1314is selected
+2022-12-02 23:43:53,441 - logger_File -INFO - React App is equal to React App
+2022-12-02 23:43:53,662 - logger_File -INFO - user clicked on Sign In option
+2022-12-02 23:43:54,039 - logger_File -INFO - user entered email sohail@tek.com and password Shadab9166@
+2022-12-02 23:43:54,161 - logger_File -INFO - user clicked on login button
+2022-12-02 23:43:54,577 - logger_File -INFO - user logged in into account
+2022-12-02 23:43:54,719 - logger_File -INFO - User should be on the account
+2022-12-02 23:43:54,924 - logger_File -INFO - User should be on the account
+2022-12-02 23:43:55,003 - logger_File -INFO - 1314is selected
+2022-12-02 23:47:55,262 - logger_File -INFO - React App is equal to React App
+2022-12-02 23:47:55,479 - logger_File -INFO - user clicked on Sign In option
+2022-12-02 23:47:55,846 - logger_File -INFO - user entered email sohail@tek.com and password Shadab9166@
+2022-12-02 23:47:55,964 - logger_File -INFO - user clicked on login button
+2022-12-02 23:47:56,509 - logger_File -INFO - user logged in into account
+2022-12-02 23:47:56,642 - logger_File -INFO - User should be on the account
+2022-12-02 23:47:56,804 - logger_File -INFO - User should be on the account
+2022-12-02 23:47:57,461 - logger_File -INFO - 1314is selected
+2022-12-02 23:55:05,394 - logger_File -INFO - React App is equal to React App
+2022-12-02 23:55:05,593 - logger_File -INFO - user clicked on Sign In option
+2022-12-02 23:55:05,937 - logger_File -INFO - user entered email sohail@tek.com and password Shadab9166@
+2022-12-02 23:55:06,047 - logger_File -INFO - user clicked on login button
+2022-12-02 23:55:06,409 - logger_File -INFO - user logged in into account
+2022-12-02 23:55:06,532 - logger_File -INFO - User should be on the account
+2022-12-02 23:55:06,650 - logger_File -INFO - User should be on the account
+2022-12-02 23:55:06,988 - logger_File -INFO - 1314is selected
+2022-12-02 23:55:07,097 - logger_File -INFO - user clicked on Edit Option
+2022-12-02 23:55:07,860 - logger_File -INFO - user entered required card information
+2022-12-02 23:55:07,961 - logger_File -INFO - user clicked on Update your card button
+2022-12-03 00:02:57,624 - logger_File -INFO - React App is equal to React App
+2022-12-03 00:02:57,895 - logger_File -INFO - user clicked on Sign In option
+2022-12-03 00:02:58,241 - logger_File -INFO - user entered email sohail@tek.com and password Shadab9166@
+2022-12-03 00:02:58,361 - logger_File -INFO - user clicked on login button
+2022-12-03 00:02:58,763 - logger_File -INFO - user logged in into account
+2022-12-03 00:02:58,912 - logger_File -INFO - User should be on the account
+2022-12-03 00:02:59,099 - logger_File -INFO - User should be on the account
+2022-12-03 00:02:59,320 - logger_File -INFO - 1314is selected
+2022-12-03 00:02:59,453 - logger_File -INFO - user clicked on Edit Option
+2022-12-03 00:03:20,317 - logger_File -INFO - user entered required card information
+2022-12-03 00:03:20,430 - logger_File -INFO - user clicked on Update your card button
+2022-12-03 00:04:42,259 - logger_File -INFO - React App is equal to React App
+2022-12-03 00:04:42,503 - logger_File -INFO - user clicked on Sign In option
+2022-12-03 00:04:42,855 - logger_File -INFO - user entered email sohail@tek.com and password Shadab9166@
+2022-12-03 00:04:42,978 - logger_File -INFO - user clicked on login button
+2022-12-03 00:04:43,439 - logger_File -INFO - user logged in into account
+2022-12-03 00:04:43,593 - logger_File -INFO - User should be on the account
+2022-12-03 00:04:43,748 - logger_File -INFO - User should be on the account
+2022-12-03 00:04:44,287 - logger_File -INFO - 1314is selected
+2022-12-03 00:04:44,414 - logger_File -INFO - user clicked on Edit Option
+2022-12-03 00:05:05,287 - logger_File -INFO - user entered required card information
+2022-12-03 00:05:05,408 - logger_File -INFO - user clicked on Update your card button
+2022-12-03 00:06:28,318 - logger_File -INFO - React App is equal to React App
+2022-12-03 00:06:28,540 - logger_File -INFO - user clicked on Sign In option
+2022-12-03 00:06:28,930 - logger_File -INFO - user entered email sohail@tek.com and password Shadab9166@
+2022-12-03 00:06:29,040 - logger_File -INFO - user clicked on login button
+2022-12-03 00:06:29,401 - logger_File -INFO - user logged in into account
+2022-12-03 00:06:29,538 - logger_File -INFO - User should be on the account
+2022-12-03 00:06:29,698 - logger_File -INFO - User should be on the account
+2022-12-03 00:06:32,293 - logger_File -INFO - 1314is selected
+2022-12-03 00:06:32,428 - logger_File -INFO - user clicked on Edit Option
+2022-12-03 00:06:53,297 - logger_File -INFO - user entered required card information
+2022-12-03 00:06:53,396 - logger_File -INFO - user clicked on Update your card button
+2022-12-03 00:12:53,118 - logger_File -INFO - React App is equal to React App
+2022-12-03 00:12:53,306 - logger_File -INFO - user clicked on Sign In option
+2022-12-03 00:12:53,631 - logger_File -INFO - user entered email sohail@tek.com and password Shadab9166@
+2022-12-03 00:12:53,736 - logger_File -INFO - user clicked on login button
+2022-12-03 00:12:54,134 - logger_File -INFO - user logged in into account
+2022-12-03 00:12:54,256 - logger_File -INFO - User should be on the account
+2022-12-03 00:12:54,395 - logger_File -INFO - User should be on the account
+2022-12-03 00:12:54,637 - logger_File -INFO - 9010is selected
+2022-12-03 00:12:54,746 - logger_File -INFO - user clicked on Edit Option
+2022-12-03 00:13:15,535 - logger_File -INFO - user entered required card information
+2022-12-03 00:13:15,672 - logger_File -INFO - user clicked on Update your card button
+2022-12-03 00:16:03,203 - logger_File -INFO - React App is equal to React App
+2022-12-03 00:16:03,443 - logger_File -INFO - user clicked on Sign In option
+2022-12-03 00:16:03,859 - logger_File -INFO - user entered email sohail@tek.com and password Shadab9166@
+2022-12-03 00:16:03,967 - logger_File -INFO - user clicked on login button
+2022-12-03 00:16:04,454 - logger_File -INFO - user logged in into account
+2022-12-03 00:16:04,586 - logger_File -INFO - User should be on the account
+2022-12-03 00:16:04,697 - logger_File -INFO - User should be on the account
+2022-12-03 00:16:05,015 - logger_File -INFO - 1817is selected
+2022-12-03 00:16:05,120 - logger_File -INFO - user clicked on Edit Option
+2022-12-03 00:16:26,116 - logger_File -INFO - user entered required card information
+2022-12-03 00:16:26,209 - logger_File -INFO - user clicked on Update your card button
+2022-12-03 00:34:07,856 - logger_File -INFO - React App is equal to React App
+2022-12-03 00:34:08,067 - logger_File -INFO - user clicked on Sign In option
+2022-12-03 00:34:08,468 - logger_File -INFO - user entered email sohail@tek.com and password Shadab9166@
+2022-12-03 00:34:08,581 - logger_File -INFO - user clicked on login button
+2022-12-03 00:34:08,947 - logger_File -INFO - user logged in into account
+2022-12-03 00:34:09,074 - logger_File -INFO - User should be on the account
+2022-12-03 00:34:09,210 - logger_File -INFO - User should be on the account
+2022-12-03 00:34:09,487 - logger_File -INFO - 1817is selected
+2022-12-03 00:34:09,606 - logger_File -INFO - user clicked on Edit Option
+2022-12-03 00:34:30,474 - logger_File -INFO - user entered required card information
+2022-12-03 00:34:30,579 - logger_File -INFO - user clicked on Update your card button
+2022-12-03 00:36:41,468 - logger_File -INFO - React App is equal to React App
+2022-12-03 00:36:41,661 - logger_File -INFO - user clicked on Sign In option
+2022-12-03 00:36:41,966 - logger_File -INFO - user entered email sohail@tek.com and password Shadab9166@
+2022-12-03 00:36:42,063 - logger_File -INFO - user clicked on login button
+2022-12-03 00:36:42,468 - logger_File -INFO - user logged in into account
+2022-12-03 00:36:42,585 - logger_File -INFO - User should be on the account
+2022-12-03 00:36:42,714 - logger_File -INFO - User should be on the account
+2022-12-03 00:36:43,186 - logger_File -INFO - 7682is selected
+2022-12-03 00:36:43,289 - logger_File -INFO - user clicked on Edit Option
+2022-12-03 00:37:04,161 - logger_File -INFO - user entered required card information
+2022-12-03 00:37:04,273 - logger_File -INFO - user clicked on Update your card button
+2022-12-03 00:39:54,973 - logger_File -INFO - React App is equal to React App
+2022-12-03 00:39:55,148 - logger_File -INFO - user clicked on Sign In option
+2022-12-03 00:39:55,461 - logger_File -INFO - user entered email sohail@tek.com and password Shadab9166@
+2022-12-03 00:39:55,559 - logger_File -INFO - user clicked on login button
+2022-12-03 00:39:55,988 - logger_File -INFO - user logged in into account
+2022-12-03 00:39:56,102 - logger_File -INFO - User should be on the account
+2022-12-03 00:39:56,195 - logger_File -INFO - User should be on the account
+2022-12-03 00:39:56,624 - logger_File -INFO - 8319is selected
+2022-12-03 00:39:56,723 - logger_File -INFO - user clicked on Edit Option
+2022-12-03 00:40:17,572 - logger_File -INFO - user entered required card information
+2022-12-03 00:40:17,668 - logger_File -INFO - user clicked on Update your card button
+2022-12-03 00:45:18,772 - logger_File -INFO - React App is equal to React App
+2022-12-03 00:45:18,925 - logger_File -INFO - user clicked on Sign In option
+2022-12-03 00:45:19,194 - logger_File -INFO - user entered email sohail@tek.com and password Shadab9166@
+2022-12-03 00:45:19,283 - logger_File -INFO - user clicked on login button
+2022-12-03 00:45:20,621 - logger_File -INFO - user logged in into account
+2022-12-03 00:45:20,728 - logger_File -INFO - User should be on the account
+2022-12-03 00:45:20,816 - logger_File -INFO - User should be on the account
+2022-12-03 00:45:20,991 - logger_File -INFO - User should see the form to fill out the information
+2022-12-03 01:06:02,684 - logger_File -INFO - React App is equal to React App
+2022-12-03 01:06:02,816 - logger_File -INFO - user clicked on Sign In option
+2022-12-03 01:06:03,053 - logger_File -INFO - user entered email sohail@tek.com and password Shadab9166@
+2022-12-03 01:06:03,131 - logger_File -INFO - user clicked on login button
+2022-12-03 01:06:03,491 - logger_File -INFO - user logged in into account
+2022-12-03 01:06:03,603 - logger_File -INFO - User should be on the account
+2022-12-03 01:06:03,672 - logger_File -INFO - User should be on the account
+2022-12-03 01:06:03,790 - logger_File -INFO - User should see the form to fill out the information
+2022-12-05 22:23:00,376 - logger_File -INFO - React App is equal to React App
+2022-12-05 22:23:00,516 - logger_File -INFO - user clicked on Sign In option
+2022-12-05 22:23:00,763 - logger_File -INFO - user entered email sohail@tek.com and password Shadab9166@
+2022-12-05 22:23:00,848 - logger_File -INFO - user clicked on login button
+2022-12-05 22:23:01,563 - logger_File -INFO - user logged in into account
+2022-12-05 22:23:01,662 - logger_File -INFO - User should be on the account
+2022-12-05 22:23:01,737 - logger_File -INFO - User should be on the account
+2022-12-05 22:23:01,862 - logger_File -INFO - User should see the form to fill out the information
+2022-12-05 22:24:29,172 - logger_File -INFO - React App is equal to React App
+2022-12-05 22:24:29,303 - logger_File -INFO - user clicked on Sign In option
+2022-12-05 22:24:29,541 - logger_File -INFO - user entered email sohail@tek.com and password Shadab9166@
+2022-12-05 22:24:29,620 - logger_File -INFO - user clicked on login button
+2022-12-05 22:24:30,017 - logger_File -INFO - user logged in into account
+2022-12-05 22:24:30,129 - logger_File -INFO - User should be on the account
+2022-12-05 22:24:30,214 - logger_File -INFO - User should be on the account
+2022-12-05 22:24:30,338 - logger_File -INFO - User should see the form to fill out the information
+2022-12-05 22:25:07,574 - logger_File -INFO - User should see all the information they fill out
+2022-12-05 22:25:11,705 - logger_File -INFO - user should add the address
+2022-12-05 22:27:52,853 - logger_File -INFO - React App is equal to React App
+2022-12-05 22:27:52,984 - logger_File -INFO - user clicked on Sign In option
+2022-12-05 22:27:53,218 - logger_File -INFO - user entered email sohail@tek.com and password Shadab9166@
+2022-12-05 22:27:53,293 - logger_File -INFO - user clicked on login button
+2022-12-05 22:27:53,660 - logger_File -INFO - user logged in into account
+2022-12-05 22:27:53,764 - logger_File -INFO - User should be on the account
+2022-12-05 22:27:53,834 - logger_File -INFO - User should be on the account
+2022-12-05 22:27:53,981 - logger_File -INFO - User should see the form to fill out the information
+2022-12-05 22:28:27,011 - logger_File -INFO - User should see all the information they fill out
+2022-12-05 22:28:31,138 - logger_File -INFO - user should add the address
+2022-12-05 22:48:16,712 - logger_File -INFO - React App is equal to React App
+2022-12-05 22:48:16,847 - logger_File -INFO - user clicked on Sign In option
+2022-12-05 22:48:17,071 - logger_File -INFO - user entered email sohail@tek.com and password Shadab9166@
+2022-12-05 22:48:17,147 - logger_File -INFO - user clicked on login button
+2022-12-05 22:48:17,506 - logger_File -INFO - user logged in into account
+2022-12-05 22:48:17,620 - logger_File -INFO - User should be on the account
+2022-12-05 22:48:17,712 - logger_File -INFO - User should be on the account
+2022-12-05 22:50:52,272 - logger_File -INFO - React App is equal to React App
+2022-12-05 22:50:52,449 - logger_File -INFO - user clicked on Sign In option
+2022-12-05 22:50:52,738 - logger_File -INFO - user entered email sohail@tek.com and password Shadab9166@
+2022-12-05 22:50:52,825 - logger_File -INFO - user clicked on login button
+2022-12-05 22:50:53,188 - logger_File -INFO - user logged in into account
+2022-12-05 22:50:53,295 - logger_File -INFO - User should be on the account
+2022-12-05 22:50:53,389 - logger_File -INFO - User should be on the account
+2022-12-05 22:50:53,822 - logger_File -INFO - user should click on the remover botton
+2022-12-05 22:50:53,843 - logger_File -INFO - card should not be there
+2022-12-05 22:52:26,052 - logger_File -INFO - React App is equal to React App
+2022-12-05 22:52:26,227 - logger_File -INFO - user clicked on Sign In option
+2022-12-05 22:52:26,506 - logger_File -INFO - user entered email sohail@tek.com and password Shadab9166@
+2022-12-05 22:52:26,604 - logger_File -INFO - user clicked on login button
+2022-12-05 22:52:27,009 - logger_File -INFO - user logged in into account
+2022-12-05 22:52:27,124 - logger_File -INFO - User should be on the account
+2022-12-05 22:52:27,240 - logger_File -INFO - User should be on the account
+2022-12-05 22:52:35,564 - logger_File -INFO - user should click on the remover botton
+2022-12-06 23:00:24,714 - logger_File -INFO - React App is equal to React App
+2022-12-06 23:00:24,842 - logger_File -INFO - user clicked on Sign In option
+2022-12-06 23:00:25,072 - logger_File -INFO - user entered email sohail@tek.com and password Shadab9166@
+2022-12-06 23:00:25,154 - logger_File -INFO - user clicked on login button
+2022-12-06 23:00:25,947 - logger_File -INFO - user logged in into account
+2022-12-06 23:00:26,053 - logger_File -INFO - User should be on the account
+2022-12-06 23:00:26,129 - logger_File -INFO - User should be on the account
+2022-12-06 23:00:34,602 - logger_File -INFO - user should click on the remover botton
+2022-12-06 23:02:19,490 - logger_File -INFO - React App is equal to React App
+2022-12-06 23:02:19,630 - logger_File -INFO - user clicked on Sign In option
+2022-12-06 23:02:19,862 - logger_File -INFO - user entered email sohail@tek.com and password Shadab9166@
+2022-12-06 23:02:19,952 - logger_File -INFO - user clicked on login button
+2022-12-06 23:02:20,470 - logger_File -INFO - user logged in into account
+2022-12-06 23:02:20,583 - logger_File -INFO - User should be on the account
+2022-12-06 23:02:20,657 - logger_File -INFO - User should be on the account
+2022-12-06 23:03:35,398 - logger_File -INFO - React App is equal to React App
+2022-12-06 23:03:35,528 - logger_File -INFO - user clicked on Sign In option
+2022-12-06 23:03:35,764 - logger_File -INFO - user entered email sohail@tek.com and password Shadab9166@
+2022-12-06 23:03:35,842 - logger_File -INFO - user clicked on login button
+2022-12-06 23:03:36,319 - logger_File -INFO - user logged in into account
+2022-12-06 23:03:36,424 - logger_File -INFO - User should be on the account
+2022-12-06 23:03:36,498 - logger_File -INFO - User should be on the account
+2022-12-06 23:03:45,050 - logger_File -INFO - user should click on the remover botton
+2022-12-06 23:03:45,051 - logger_File -INFO - card should not be there
+2022-12-06 23:32:34,465 - logger_File -INFO - React App is equal to React App
+2022-12-06 23:32:34,599 - logger_File -INFO - user clicked on Sign In option
+2022-12-06 23:32:34,833 - logger_File -INFO - user entered email sohail@tek.com and password Shadab9166@
+2022-12-06 23:32:34,912 - logger_File -INFO - user clicked on login button
+2022-12-06 23:32:35,509 - logger_File -INFO - user logged in into account
+2022-12-06 23:32:35,609 - logger_File -INFO - User should be on the account
+2022-12-06 23:32:36,153 - logger_File -INFO - User click on the edited btn
+2022-12-06 23:33:09,521 - logger_File -INFO - User should see all the information they fill out
+2022-12-06 23:33:13,642 - logger_File -INFO - User clicked on the update btn
+2022-12-06 23:35:55,368 - logger_File -INFO - React App is equal to React App
+2022-12-06 23:35:55,508 - logger_File -INFO - user clicked on Sign In option
+2022-12-06 23:35:55,734 - logger_File -INFO - user entered email sohail@tek.com and password Shadab9166@
+2022-12-06 23:35:55,812 - logger_File -INFO - user clicked on login button
+2022-12-06 23:35:56,209 - logger_File -INFO - user logged in into account
+2022-12-06 23:35:56,318 - logger_File -INFO - User should be on the account
+2022-12-06 23:35:57,121 - logger_File -INFO - User click on the edited btn
+2022-12-06 23:36:30,502 - logger_File -INFO - User should see all the information they fill out
+2022-12-06 23:36:34,616 - logger_File -INFO - User clicked on the update btn
+2022-12-07 00:21:04,276 - logger_File -INFO - React App is equal to React App
+2022-12-07 00:21:04,409 - logger_File -INFO - user clicked on Sign In option
+2022-12-07 00:21:04,656 - logger_File -INFO - user entered email sohail@tek.com and password Shadab9166@
+2022-12-07 00:21:04,732 - logger_File -INFO - user clicked on login button
+2022-12-07 00:21:05,276 - logger_File -INFO - user logged in into account
+2022-12-07 00:21:05,376 - logger_File -INFO - User should be on the account
+2022-12-07 00:21:05,444 - logger_File -INFO - User should be on the account
+2022-12-07 00:21:05,705 - logger_File -INFO - User click remove address
+2022-12-07 00:21:05,706 - logger_File -INFO - User should not see the information
+2022-12-07 00:32:12,342 - logger_File -INFO - React App is equal to React App
+2022-12-07 00:32:12,474 - logger_File -INFO - user clicked on Sign In option
+2022-12-07 00:32:12,705 - logger_File -INFO - user entered email sohail@tek.com and password Shadab9166@
+2022-12-07 00:32:12,780 - logger_File -INFO - user clicked on login button
+2022-12-07 00:32:13,181 - logger_File -INFO - user logged in into account
+2022-12-07 00:32:13,289 - logger_File -INFO - User should be on the account
+2022-12-07 00:32:13,372 - logger_File -INFO - User should be on the account
+2022-12-07 00:32:13,769 - logger_File -INFO - User click remove address
+2022-12-07 00:32:13,770 - logger_File -INFO - User should not see the information
+2022-12-07 00:34:04,942 - logger_File -INFO - React App is equal to React App
+2022-12-07 00:34:05,081 - logger_File -INFO - user clicked on Sign In option
+2022-12-07 00:34:05,326 - logger_File -INFO - user entered email sohail@tek.com and password Shadab9166@
+2022-12-07 00:34:05,402 - logger_File -INFO - user clicked on login button
+2022-12-07 00:34:05,766 - logger_File -INFO - user logged in into account
+2022-12-07 00:34:05,871 - logger_File -INFO - User should be on the account
+2022-12-07 00:34:05,942 - logger_File -INFO - User should be on the account
+2022-12-07 00:34:06,276 - logger_File -INFO - User click remove address
+2022-12-07 00:34:06,277 - logger_File -INFO - User should not see the information
+2022-12-07 01:07:09,151 - logger_File -INFO - React App is equal to React App
+2022-12-07 01:07:09,259 - logger_File -INFO - User click on all
+2022-12-07 01:07:09,716 - logger_File -INFO - user should see all the element
+2022-12-07 01:08:13,412 - logger_File -INFO - React App is equal to React App
+2022-12-07 01:08:13,514 - logger_File -INFO - User click on all
+2022-12-07 01:22:52,281 - logger_File -INFO - React App is equal to React App
+2022-12-07 01:22:52,374 - logger_File -INFO - User click on all
+2022-12-07 01:23:32,896 - logger_File -INFO - React App is equal to React App
+2022-12-07 01:23:32,990 - logger_File -INFO - User click on all
+2022-12-07 01:25:06,293 - logger_File -INFO - React App is equal to React App
+2022-12-07 01:25:06,389 - logger_File -INFO - User click on all
+2022-12-07 13:25:58,153 - logger_File -INFO - React App is equal to React App
+2022-12-07 13:25:58,280 - logger_File -INFO - User click on all
+2022-12-07 13:26:07,199 - logger_File -INFO - React App is equal to React App
+2022-12-07 13:26:07,296 - logger_File -INFO - User click on all
+2022-12-07 13:26:17,024 - logger_File -INFO - React App is equal to React App
+2022-12-07 13:26:17,105 - logger_File -INFO - User click on all
+2022-12-07 13:26:20,670 - logger_File -INFO - React App is equal to React App
+2022-12-07 13:26:20,758 - logger_File -INFO - User click on all
+2022-12-07 13:26:24,171 - logger_File -INFO - React App is equal to React App
+2022-12-07 13:26:24,258 - logger_File -INFO - User click on all
+2022-12-07 13:29:44,853 - logger_File -INFO - React App is equal to React App
+2022-12-07 13:29:44,973 - logger_File -INFO - User click on all
+2022-12-07 13:29:48,365 - logger_File -INFO - React App is equal to React App
+2022-12-07 13:29:48,455 - logger_File -INFO - User click on all
+2022-12-07 13:29:53,214 - logger_File -INFO - React App is equal to React App
+2022-12-07 13:29:53,294 - logger_File -INFO - User click on all
+2022-12-07 13:29:58,513 - logger_File -INFO - React App is equal to React App
+2022-12-07 13:29:58,608 - logger_File -INFO - User click on all
+2022-12-07 13:30:04,256 - logger_File -INFO - React App is equal to React App
+2022-12-07 13:30:04,358 - logger_File -INFO - User click on all
+2022-12-07 13:30:40,154 - logger_File -INFO - React App is equal to React App
+2022-12-07 13:30:40,287 - logger_File -INFO - User click on all
+2022-12-07 13:30:43,905 - logger_File -INFO - React App is equal to React App
+2022-12-07 13:30:44,071 - logger_File -INFO - User click on all
+2022-12-07 13:30:47,501 - logger_File -INFO - React App is equal to React App
+2022-12-07 13:30:47,595 - logger_File -INFO - User click on all
+2022-12-07 13:30:54,617 - logger_File -INFO - React App is equal to React App
+2022-12-07 13:30:54,709 - logger_File -INFO - User click on all
+2022-12-07 13:30:58,432 - logger_File -INFO - React App is equal to React App
+2022-12-07 13:30:58,542 - logger_File -INFO - User click on all
+2022-12-07 13:31:47,085 - logger_File -INFO - React App is equal to React App
+2022-12-07 13:31:47,237 - logger_File -INFO - User click on all
+2022-12-07 13:31:50,737 - logger_File -INFO - React App is equal to React App
+2022-12-07 13:31:50,846 - logger_File -INFO - User click on all
+2022-12-07 13:31:54,467 - logger_File -INFO - React App is equal to React App
+2022-12-07 13:31:54,602 - logger_File -INFO - User click on all
+2022-12-07 13:31:58,224 - logger_File -INFO - React App is equal to React App
+2022-12-07 13:31:58,345 - logger_File -INFO - User click on all
+2022-12-07 13:32:03,020 - logger_File -INFO - React App is equal to React App
+2022-12-07 13:32:03,120 - logger_File -INFO - User click on all
+2022-12-07 13:34:04,670 - logger_File -INFO - React App is equal to React App
+2022-12-07 13:34:04,841 - logger_File -INFO - User click on all
+2022-12-07 13:34:10,412 - logger_File -INFO - React App is equal to React App
+2022-12-07 13:34:10,536 - logger_File -INFO - User click on all
+2022-12-07 13:34:15,785 - logger_File -INFO - React App is equal to React App
+2022-12-07 13:34:15,910 - logger_File -INFO - User click on all
+2022-12-07 13:34:19,605 - logger_File -INFO - React App is equal to React App
+2022-12-07 13:34:19,729 - logger_File -INFO - User click on all
+2022-12-07 13:34:23,661 - logger_File -INFO - React App is equal to React App
+2022-12-07 13:34:23,774 - logger_File -INFO - User click on all
+2022-12-07 13:36:17,742 - logger_File -INFO - React App is equal to React App
+2022-12-07 13:36:17,941 - logger_File -INFO - User click on all
+2022-12-07 13:36:25,089 - logger_File -INFO - React App is equal to React App
+2022-12-07 13:36:25,217 - logger_File -INFO - User click on all
+2022-12-07 13:36:29,264 - logger_File -INFO - React App is equal to React App
+2022-12-07 13:36:29,385 - logger_File -INFO - User click on all
+2022-12-07 13:36:34,778 - logger_File -INFO - React App is equal to React App
+2022-12-07 13:36:34,901 - logger_File -INFO - User click on all
+2022-12-07 13:36:38,678 - logger_File -INFO - React App is equal to React App
+2022-12-07 13:36:38,834 - logger_File -INFO - User click on all
+2022-12-07 14:37:12,314 - logger_File -INFO - React App is equal to React App
+2022-12-07 14:37:12,499 - logger_File -INFO - user clicked on Sign In option
+2022-12-07 14:37:12,808 - logger_File -INFO - user entered email EmailValue and password PasswordValue
+2022-12-07 14:55:51,505 - logger_File -INFO - React App is equal to React App
+2022-12-07 14:55:51,635 - logger_File -INFO - user clicked on Sign In option
+2022-12-07 14:55:51,866 - logger_File -INFO - user entered email EmailValue and password PasswordValue
+2022-12-07 14:58:57,466 - logger_File -INFO - React App is equal to React App
+2022-12-07 14:58:57,592 - logger_File -INFO - user clicked on Sign In option
+2022-12-07 14:58:57,818 - logger_File -INFO - user entered email EmailValue and password PasswordValue
+2022-12-07 15:17:15,739 - logger_File -INFO - React App is equal to React App
+2022-12-07 15:17:15,868 - logger_File -INFO - user clicked on Sign In option
+2022-12-07 15:17:16,102 - logger_File -INFO - user entered email EmailValue and password PasswordValue
+2022-12-07 15:18:04,578 - logger_File -INFO - React App is equal to React App
+2022-12-07 15:18:04,728 - logger_File -INFO - user clicked on Sign In option
+2022-12-07 15:18:04,961 - logger_File -INFO - user entered email sohail@tek.com and password Shadab9166@
+2022-12-07 15:18:05,039 - logger_File -INFO - user clicked on login button
+2022-12-07 15:18:05,391 - logger_File -INFO - user logged in into account
+2022-12-07 15:18:05,475 - logger_File -INFO - Smart Home was selected from the drop down
+2022-12-07 15:18:05,596 - logger_File -INFO - User should write the item they need
+2022-12-07 15:18:05,670 - logger_File -INFO - user should see the item
+2022-12-07 15:18:05,763 - logger_File -INFO - User should click on the item
+2022-12-07 15:20:07,553 - logger_File -INFO - React App is equal to React App
+2022-12-07 15:20:07,741 - logger_File -INFO - user clicked on Sign In option
+2022-12-07 15:20:08,007 - logger_File -INFO - user entered email sohail@tek.com and password Shadab9166@
+2022-12-07 15:20:08,098 - logger_File -INFO - user clicked on login button
+2022-12-07 15:20:08,494 - logger_File -INFO - user logged in into account
+2022-12-07 15:20:08,593 - logger_File -INFO - Smart Home was selected from the drop down
+2022-12-07 15:20:08,677 - logger_File -INFO - User should write the item they need
+2022-12-07 15:20:08,784 - logger_File -INFO - user should see the item
+2022-12-07 15:20:08,876 - logger_File -INFO - User should click on the item
+2022-12-07 15:21:18,599 - logger_File -INFO - React App is equal to React App
+2022-12-07 15:21:18,754 - logger_File -INFO - user clicked on Sign In option
+2022-12-07 15:21:18,998 - logger_File -INFO - user entered email sohail@tek.com and password Shadab9166@
+2022-12-07 15:21:19,081 - logger_File -INFO - user clicked on login button
+2022-12-07 15:21:20,242 - logger_File -INFO - user logged in into account
+2022-12-07 15:21:20,325 - logger_File -INFO - Smart Home was selected from the drop down
+2022-12-07 15:21:20,443 - logger_File -INFO - User should write the item they need
+2022-12-07 15:21:20,529 - logger_File -INFO - user should see the item
+2022-12-07 15:21:20,636 - logger_File -INFO - User should click on the item
+2022-12-07 15:23:05,172 - logger_File -INFO - React App is equal to React App
+2022-12-07 15:23:05,324 - logger_File -INFO - user clicked on Sign In option
+2022-12-07 15:23:05,590 - logger_File -INFO - user entered email sohail@tek.com and password Shadab9166@
+2022-12-07 15:23:05,679 - logger_File -INFO - user clicked on login button
+2022-12-07 15:23:06,083 - logger_File -INFO - user logged in into account
+2022-12-07 15:23:06,171 - logger_File -INFO - Smart Home was selected from the drop down
+2022-12-07 15:23:10,312 - logger_File -INFO - User should write the item they need
+2022-12-07 15:23:14,410 - logger_File -INFO - user should see the item
+2022-12-07 15:23:14,505 - logger_File -INFO - User should click on the item
+2022-12-07 15:25:54,185 - logger_File -INFO - React App is equal to React App
+2022-12-07 15:25:54,370 - logger_File -INFO - user clicked on Sign In option
+2022-12-07 15:25:54,663 - logger_File -INFO - user entered email sohail@tek.com and password Shadab9166@
+2022-12-07 15:25:54,769 - logger_File -INFO - user clicked on login button
+2022-12-07 15:25:55,138 - logger_File -INFO - user logged in into account
+2022-12-07 15:25:55,230 - logger_File -INFO - Smart Home was selected from the drop down
+2022-12-07 15:25:59,392 - logger_File -INFO - User should write the item they need
+2022-12-07 15:26:03,509 - logger_File -INFO - user should see the item
+2022-12-07 15:26:03,606 - logger_File -INFO - User should click on the item
+2022-12-07 15:28:24,892 - logger_File -INFO - React App is equal to React App
+2022-12-07 15:28:25,098 - logger_File -INFO - user clicked on Sign In option
+2022-12-07 15:28:25,380 - logger_File -INFO - user entered email sohail@tek.com and password Shadab9166@
+2022-12-07 15:28:25,493 - logger_File -INFO - user clicked on login button
+2022-12-07 15:28:25,903 - logger_File -INFO - user logged in into account
+2022-12-07 15:28:25,995 - logger_File -INFO - Smart Home was selected from the drop down
+2022-12-07 15:28:30,151 - logger_File -INFO - User should write the item they need
+2022-12-07 15:28:34,253 - logger_File -INFO - user should see the item
+2022-12-07 15:28:34,577 - logger_File -INFO - User should click on the item
+2022-12-07 15:28:34,892 - logger_File -INFO - User should change quintidy to two
+2022-12-07 15:28:35,038 - logger_File -INFO - user Should see that the it add to the card
+2022-12-07 15:28:35,074 - logger_File -INFO - User should it added
+2022-12-07 15:30:56,299 - logger_File -INFO - React App is equal to React App
+2022-12-07 15:30:56,504 - logger_File -INFO - user clicked on Sign In option
+2022-12-07 15:30:56,822 - logger_File -INFO - user entered email sohail@tek.com and password Shadab9166@
+2022-12-07 15:30:56,933 - logger_File -INFO - user clicked on login button
+2022-12-07 15:30:57,337 - logger_File -INFO - user logged in into account
+2022-12-07 15:30:57,433 - logger_File -INFO - Smart Home was selected from the drop down
+2022-12-07 15:31:01,614 - logger_File -INFO - User should write the item they need
+2022-12-07 15:31:05,721 - logger_File -INFO - user should see the item
+2022-12-07 15:31:09,817 - logger_File -INFO - User should click on the item
+2022-12-07 15:31:13,895 - logger_File -INFO - User should change quintidy to two
+2022-12-07 15:31:17,985 - logger_File -INFO - user Should see that the it add to the card
+2022-12-07 15:31:22,021 - logger_File -INFO - User should it added
+2022-12-07 23:52:35,130 - logger_File -INFO - React App is equal to React App
+2022-12-07 23:52:35,265 - logger_File -INFO - user clicked on Sign In option
+2022-12-07 23:52:35,496 - logger_File -INFO - user entered email EmailValue and password PasswordValue
+2022-12-07 23:55:27,997 - logger_File -INFO - React App is equal to React App
+2022-12-07 23:55:28,130 - logger_File -INFO - user clicked on Sign In option
+2022-12-07 23:55:28,367 - logger_File -INFO - user entered email sohail@tek.com and password Shadab9166@
+2022-12-07 23:55:28,444 - logger_File -INFO - user clicked on login button
+2022-12-07 23:55:29,096 - logger_File -INFO - user logged in into account
+2022-12-07 23:55:29,184 - logger_File -INFO - Smart Home was selected from the drop down
+2022-12-07 23:55:33,303 - logger_File -INFO - User should write the item they need
+2022-12-07 23:56:15,645 - logger_File -INFO - React App is equal to React App
+2022-12-07 23:56:15,800 - logger_File -INFO - user clicked on Sign In option
+2022-12-07 23:56:16,031 - logger_File -INFO - user entered email sohail@tek.com and password Shadab9166@
+2022-12-07 23:56:16,107 - logger_File -INFO - user clicked on login button
+2022-12-07 23:56:16,512 - logger_File -INFO - user logged in into account
+2022-12-07 23:56:16,597 - logger_File -INFO - Smart Home was selected from the drop down
+2022-12-07 23:56:20,725 - logger_File -INFO - User should write the item they need
+2022-12-07 23:56:24,813 - logger_File -INFO - user should see the item
+2022-12-07 23:56:28,910 - logger_File -INFO - User should click on the item
+2022-12-07 23:56:32,998 - logger_File -INFO - User should change quintidy to two
+2022-12-07 23:56:37,095 - logger_File -INFO - user Should see that the it add to the card
+2022-12-07 23:56:41,126 - logger_File -INFO - User should it added
+2022-12-07 23:56:45,247 - logger_File -INFO - User should be able to click on cart option
+2022-12-07 23:56:45,362 - logger_File -INFO - User click on Proceed to Checkout button
+2022-12-08 00:02:27,602 - logger_File -INFO - React App is equal to React App
+2022-12-08 00:02:27,726 - logger_File -INFO - user clicked on Sign In option
+2022-12-08 00:02:27,958 - logger_File -INFO - user entered email sohail@tek.com and password Shadab9166@
+2022-12-08 00:02:28,035 - logger_File -INFO - user clicked on login button
+2022-12-08 00:02:28,440 - logger_File -INFO - user logged in into account
+2022-12-08 00:02:28,526 - logger_File -INFO - Smart Home was selected from the drop down
+2022-12-08 00:02:32,652 - logger_File -INFO - User should write the item they need
+2022-12-08 00:02:36,743 - logger_File -INFO - user should see the item
+2022-12-08 00:02:40,851 - logger_File -INFO - User should click on the item
+2022-12-08 00:02:44,932 - logger_File -INFO - User should change quintidy to two
+2022-12-08 00:02:49,032 - logger_File -INFO - user Should see that the it add to the card
+2022-12-08 00:02:53,066 - logger_File -INFO - User should it added
+2022-12-08 00:02:57,190 - logger_File -INFO - User should be able to click on cart option
+2022-12-08 00:02:57,306 - logger_File -INFO - User click on Proceed to Checkout button
+2022-12-08 00:04:36,515 - logger_File -INFO - React App is equal to React App
+2022-12-08 00:04:36,650 - logger_File -INFO - user clicked on Sign In option
+2022-12-08 00:04:36,889 - logger_File -INFO - user entered email sohail@tek.com and password Shadab9166@
+2022-12-08 00:04:36,965 - logger_File -INFO - user clicked on login button
+2022-12-08 00:04:37,324 - logger_File -INFO - user logged in into account
+2022-12-08 00:04:37,405 - logger_File -INFO - Smart Home was selected from the drop down
+2022-12-08 00:04:41,524 - logger_File -INFO - User should write the item they need
+2022-12-08 00:04:45,609 - logger_File -INFO - user should see the item
+2022-12-08 00:04:49,707 - logger_File -INFO - User should click on the item
+2022-12-08 00:04:53,792 - logger_File -INFO - User should change quintidy to two
+2022-12-08 00:04:57,879 - logger_File -INFO - user Should see that the it add to the card
+2022-12-08 00:05:01,911 - logger_File -INFO - User should it added
+2022-12-08 00:05:06,034 - logger_File -INFO - User should be able to click on cart option
+2022-12-08 00:05:06,157 - logger_File -INFO - User click on Proceed to Checkout button
+2022-12-08 00:05:06,277 - logger_File -INFO - User should be able to click on add a new address button
+2022-12-08 00:05:07,238 - logger_File -INFO - User should see all the information they fill out
+2022-12-08 00:05:07,337 - logger_File -INFO - user should add the address
+2022-12-08 00:08:05,753 - logger_File -INFO - React App is equal to React App
+2022-12-08 00:08:05,905 - logger_File -INFO - user clicked on Sign In option
+2022-12-08 00:08:06,152 - logger_File -INFO - user entered email sohail@tek.com and password Shadab9166@
+2022-12-08 00:08:06,230 - logger_File -INFO - user clicked on login button
+2022-12-08 00:08:06,624 - logger_File -INFO - user logged in into account
+2022-12-08 00:08:06,707 - logger_File -INFO - Smart Home was selected from the drop down
+2022-12-08 00:08:10,843 - logger_File -INFO - User should write the item they need
+2022-12-08 00:08:14,930 - logger_File -INFO - user should see the item
+2022-12-08 00:08:19,024 - logger_File -INFO - User should click on the item
+2022-12-08 00:08:23,108 - logger_File -INFO - User should change quintidy to two
+2022-12-08 00:08:27,201 - logger_File -INFO - user Should see that the it add to the card
+2022-12-08 00:08:31,241 - logger_File -INFO - User should it added
+2022-12-08 00:08:35,370 - logger_File -INFO - User should be able to click on cart option
+2022-12-08 00:08:39,486 - logger_File -INFO - User click on Proceed to Checkout button
+2022-12-08 00:08:47,630 - logger_File -INFO - User should be able to click on add a new address button
+2022-12-08 00:08:48,588 - logger_File -INFO - User should see all the information they fill out
+2022-12-08 00:08:52,704 - logger_File -INFO - user should add the address
+2022-12-08 00:12:17,241 - logger_File -INFO - React App is equal to React App
+2022-12-08 00:12:17,396 - logger_File -INFO - user clicked on Sign In option
+2022-12-08 00:12:17,648 - logger_File -INFO - user entered email sohail@tek.com and password Shadab9166@
+2022-12-08 00:12:17,729 - logger_File -INFO - user clicked on login button
+2022-12-08 00:12:18,090 - logger_File -INFO - user logged in into account
+2022-12-08 00:12:18,170 - logger_File -INFO - Smart Home was selected from the drop down
+2022-12-08 00:12:22,325 - logger_File -INFO - User should write the item they need
+2022-12-08 00:12:26,418 - logger_File -INFO - user should see the item
+2022-12-08 00:12:30,519 - logger_File -INFO - User should click on the item
+2022-12-08 00:12:34,595 - logger_File -INFO - User should change quintidy to two
+2022-12-08 00:12:38,686 - logger_File -INFO - user Should see that the it add to the card
+2022-12-08 00:12:42,724 - logger_File -INFO - User should it added
+2022-12-08 00:12:46,857 - logger_File -INFO - User should be able to click on cart option
+2022-12-08 00:12:50,975 - logger_File -INFO - User click on Proceed to Checkout button
+2022-12-08 00:12:59,116 - logger_File -INFO - User should be able to click on add a new address button
+2022-12-08 00:13:00,106 - logger_File -INFO - User should see all the information they fill out
+2022-12-08 00:13:04,227 - logger_File -INFO - user should add the address
+2022-12-08 00:13:04,228 - logger_File -INFO - User should be able to click on Add Your payment Buttn
+2022-12-08 00:17:33,518 - logger_File -INFO - React App is equal to React App
+2022-12-08 00:17:33,713 - logger_File -INFO - user clicked on Sign In option
+2022-12-08 00:17:33,977 - logger_File -INFO - user entered email sohail@tek.com and password Shadab9166@
+2022-12-08 00:17:34,064 - logger_File -INFO - user clicked on login button
+2022-12-08 00:17:34,458 - logger_File -INFO - user logged in into account
+2022-12-08 00:17:34,542 - logger_File -INFO - Smart Home was selected from the drop down
+2022-12-08 00:17:38,693 - logger_File -INFO - User should write the item they need
+2022-12-08 00:17:42,800 - logger_File -INFO - user should see the item
+2022-12-08 00:17:46,910 - logger_File -INFO - User should click on the item
+2022-12-08 00:17:50,997 - logger_File -INFO - User should change quintidy to two
+2022-12-08 00:17:55,084 - logger_File -INFO - user Should see that the it add to the card
+2022-12-08 00:17:59,119 - logger_File -INFO - User should it added
+2022-12-08 00:18:03,243 - logger_File -INFO - User should be able to click on cart option
+2022-12-08 00:18:07,370 - logger_File -INFO - User click on Proceed to Checkout button
+2022-12-08 00:18:15,508 - logger_File -INFO - User should be able to click on add a new address button
+2022-12-08 00:18:16,599 - logger_File -INFO - User should see all the information they fill out
+2022-12-08 00:18:20,711 - logger_File -INFO - user should add the address
+2022-12-08 00:24:42,571 - logger_File -INFO - React App is equal to React App
+2022-12-08 00:24:42,757 - logger_File -INFO - user clicked on Sign In option
+2022-12-08 00:24:43,030 - logger_File -INFO - user entered email sohail@tek.com and password Shadab9166@
+2022-12-08 00:24:43,118 - logger_File -INFO - user clicked on login button
+2022-12-08 00:24:43,517 - logger_File -INFO - user logged in into account
+2022-12-08 00:24:43,605 - logger_File -INFO - Smart Home was selected from the drop down
+2022-12-08 00:24:47,753 - logger_File -INFO - User should write the item they need
+2022-12-08 00:24:51,850 - logger_File -INFO - user should see the item
+2022-12-08 00:24:55,945 - logger_File -INFO - User should click on the item
+2022-12-08 00:25:00,028 - logger_File -INFO - User should change quintidy to two
+2022-12-08 00:25:04,112 - logger_File -INFO - user Should see that the it add to the card
+2022-12-08 00:25:08,147 - logger_File -INFO - User should it added
+2022-12-08 00:25:12,351 - logger_File -INFO - User should be able to click on cart option
+2022-12-08 00:25:16,520 - logger_File -INFO - User click on Proceed to Checkout button
+2022-12-08 00:25:24,680 - logger_File -INFO - User should be able to click on add a new address button
+2022-12-08 00:25:25,792 - logger_File -INFO - User should see all the information they fill out
+2022-12-08 00:25:29,913 - logger_File -INFO - user should add the address
+2022-12-08 00:27:01,572 - logger_File -INFO - React App is equal to React App
+2022-12-08 00:27:01,751 - logger_File -INFO - user clicked on Sign In option
+2022-12-08 00:27:02,050 - logger_File -INFO - user entered email sohail@tek.com and password Shadab9166@
+2022-12-08 00:27:02,153 - logger_File -INFO - user clicked on login button
+2022-12-08 00:27:02,509 - logger_File -INFO - user logged in into account
+2022-12-08 00:27:02,600 - logger_File -INFO - Smart Home was selected from the drop down
+2022-12-08 00:27:06,778 - logger_File -INFO - User should write the item they need
+2022-12-08 00:27:10,887 - logger_File -INFO - user should see the item
+2022-12-08 00:27:14,984 - logger_File -INFO - User should click on the item
+2022-12-08 00:27:19,062 - logger_File -INFO - User should change quintidy to two
+2022-12-08 00:27:23,157 - logger_File -INFO - user Should see that the it add to the card
+2022-12-08 00:27:27,198 - logger_File -INFO - User should it added
+2022-12-08 00:27:31,330 - logger_File -INFO - User should be able to click on cart option
+2022-12-08 00:27:35,453 - logger_File -INFO - User click on Proceed to Checkout button
+2022-12-08 00:27:43,586 - logger_File -INFO - User should be able to click on add a new address button
+2022-12-08 00:27:44,698 - logger_File -INFO - User should see all the information they fill out
+2022-12-08 00:27:48,817 - logger_File -INFO - user should add the address
+2022-12-08 00:31:40,674 - logger_File -INFO - React App is equal to React App
+2022-12-08 00:31:40,957 - logger_File -INFO - user clicked on Sign In option
+2022-12-08 00:31:41,307 - logger_File -INFO - user entered email sohail@tek.com and password Shadab9166@
+2022-12-08 00:31:41,424 - logger_File -INFO - user clicked on login button
+2022-12-08 00:31:41,785 - logger_File -INFO - user logged in into account
+2022-12-08 00:31:41,903 - logger_File -INFO - Smart Home was selected from the drop down
+2022-12-08 00:31:46,073 - logger_File -INFO - User should write the item they need
+2022-12-08 00:31:50,176 - logger_File -INFO - user should see the item
+2022-12-08 00:31:54,277 - logger_File -INFO - User should click on the item
+2022-12-08 00:31:58,372 - logger_File -INFO - User should change quintidy to two
+2022-12-08 00:32:02,458 - logger_File -INFO - user Should see that the it add to the card
+2022-12-08 00:32:06,488 - logger_File -INFO - User should it added
+2022-12-08 00:32:10,624 - logger_File -INFO - User should be able to click on cart option
+2022-12-08 00:32:14,770 - logger_File -INFO - User click on Proceed to Checkout button
+2022-12-08 00:32:22,913 - logger_File -INFO - User should be able to click on add a new address button
+2022-12-08 00:32:24,019 - logger_File -INFO - User should see all the information they fill out
+2022-12-08 00:32:28,149 - logger_File -INFO - user should add the address
+2022-12-08 00:37:10,902 - logger_File -INFO - React App is equal to React App
+2022-12-08 00:37:11,068 - logger_File -INFO - user clicked on Sign In option
+2022-12-08 00:37:11,352 - logger_File -INFO - user entered email sohail@tek.com and password Shadab9166@
+2022-12-08 00:37:11,440 - logger_File -INFO - user clicked on login button
+2022-12-08 00:37:11,809 - logger_File -INFO - user logged in into account
+2022-12-08 00:37:11,892 - logger_File -INFO - Smart Home was selected from the drop down
+2022-12-08 00:37:16,030 - logger_File -INFO - User should write the item they need
+2022-12-08 00:37:20,120 - logger_File -INFO - user should see the item
+2022-12-08 00:37:24,219 - logger_File -INFO - User should click on the item
+2022-12-08 00:37:28,302 - logger_File -INFO - User should change quintidy to two
+2022-12-08 00:37:32,397 - logger_File -INFO - user Should see that the it add to the card
+2022-12-08 00:37:36,431 - logger_File -INFO - User should it added
+2022-12-08 00:37:40,567 - logger_File -INFO - User should be able to click on cart option
+2022-12-08 00:37:44,687 - logger_File -INFO - User click on Proceed to Checkout button
+2022-12-08 00:37:52,831 - logger_File -INFO - User should be able to click on add a new address button
+2022-12-08 00:37:53,863 - logger_File -INFO - User should see all the information they fill out
+2022-12-08 00:37:57,989 - logger_File -INFO - user should add the address
+2022-12-08 00:38:06,090 - logger_File -INFO - User should be able to click on Add Your payment Buttn
+2022-12-08 00:38:10,609 - logger_File -INFO - User should fill out all the information
+2022-12-08 00:38:10,689 - logger_File -INFO - User should be able see the submitbtn
+2022-12-08 00:38:11,297 - logger_File -INFO - User click on Add Your Address Buttn
+2022-12-08 00:46:00,454 - logger_File -INFO - React App is equal to React App
+2022-12-08 00:46:00,605 - logger_File -INFO - user clicked on Sign In option
+2022-12-08 00:46:00,871 - logger_File -INFO - user entered email sohail@tek.com and password Shadab9166@
+2022-12-08 00:46:00,953 - logger_File -INFO - user clicked on login button
+2022-12-08 00:46:01,303 - logger_File -INFO - user logged in into account
+2022-12-08 00:46:01,386 - logger_File -INFO - Electronics was selected from the drop down
+2022-12-08 00:46:05,532 - logger_File -INFO - User should write the item they need
+2022-12-08 00:46:09,625 - logger_File -INFO - user should see the item
+2022-12-08 00:46:13,722 - logger_File -INFO - User should click on the item
+2022-12-08 00:50:25,021 - logger_File -INFO - React App is equal to React App
+2022-12-08 00:50:25,202 - logger_File -INFO - user clicked on Sign In option
+2022-12-08 00:50:25,485 - logger_File -INFO - user entered email sohail@tek.com and password Shadab9166@
+2022-12-08 00:50:25,584 - logger_File -INFO - user clicked on login button
+2022-12-08 00:50:26,172 - logger_File -INFO - user logged in into account
+2022-12-08 00:50:26,264 - logger_File -INFO - Electronics was selected from the drop down
+2022-12-08 00:50:30,402 - logger_File -INFO - User should write the item they need
+2022-12-08 00:50:34,493 - logger_File -INFO - user should see the item
+2022-12-08 00:50:38,586 - logger_File -INFO - User should click on the item
+2022-12-08 00:50:42,658 - logger_File -INFO - user should select 5
+2022-12-08 00:50:46,757 - logger_File -INFO - user Should see that the it add to the card
+2022-12-08 00:56:48,665 - logger_File -INFO - React App is equal to React App
+2022-12-08 00:56:48,865 - logger_File -INFO - user clicked on Sign In option
+2022-12-08 00:56:49,173 - logger_File -INFO - user entered email sohail@tek.com and password Shadab9166@
+2022-12-08 00:56:49,289 - logger_File -INFO - user clicked on login button
+2022-12-08 00:56:49,648 - logger_File -INFO - user logged in into account
+2022-12-08 00:56:49,741 - logger_File -INFO - Electronics was selected from the drop down
+2022-12-08 00:56:53,885 - logger_File -INFO - User should write the item they need
+2022-12-08 00:56:57,986 - logger_File -INFO - user should see the item
+2022-12-08 00:57:02,085 - logger_File -INFO - User should click on the item
+2022-12-08 00:57:06,180 - logger_File -INFO - user should select 5
+2022-12-08 00:57:10,272 - logger_File -INFO - user Should see that the it add to the card
+2022-12-08 00:57:14,297 - logger_File -INFO - User should see the card icon is 5
+2022-12-08 00:57:14,423 - logger_File -INFO - User should be able to click on cart option
+2022-12-08 00:57:18,566 - logger_File -INFO - User click on Proceed to Checkout button
+2022-12-08 00:57:22,649 - logger_File -INFO - User click on Add Your Address Buttn
+2022-12-08 01:29:54,913 - logger_File -INFO - React App is equal to React App
+2022-12-08 01:29:55,059 - logger_File -INFO - user clicked on Sign In option
+2022-12-08 01:29:55,302 - logger_File -INFO - user entered email sohail@tek.com and password Shadab9166@
+2022-12-08 01:29:55,384 - logger_File -INFO - user clicked on login button
+2022-12-08 01:29:55,787 - logger_File -INFO - user logged in into account
+2022-12-08 01:29:55,864 - logger_File -INFO - user should click on orders
+2022-12-08 01:29:55,865 - logger_File -INFO - user should see the first order
+2022-12-08 01:29:56,241 - logger_File -INFO - User should cancel order
+2022-12-08 01:30:46,790 - logger_File -INFO - React App is equal to React App
+2022-12-08 01:30:46,932 - logger_File -INFO - user clicked on Sign In option
+2022-12-08 01:30:47,174 - logger_File -INFO - user entered email sohail@tek.com and password Shadab9166@
+2022-12-08 01:30:47,257 - logger_File -INFO - user clicked on login button
+2022-12-08 01:30:48,651 - logger_File -INFO - user logged in into account
+2022-12-08 01:30:48,737 - logger_File -INFO - user should click on orders
+2022-12-08 01:30:48,739 - logger_File -INFO - user should see the first order
+2022-12-08 01:30:49,440 - logger_File -INFO - User should cancel order
+2022-12-08 01:32:44,941 - logger_File -INFO - React App is equal to React App
+2022-12-08 01:32:45,089 - logger_File -INFO - user clicked on Sign In option
+2022-12-08 01:32:45,348 - logger_File -INFO - user entered email sohail@tek.com and password Shadab9166@
+2022-12-08 01:32:45,437 - logger_File -INFO - user clicked on login button
+2022-12-08 01:32:45,782 - logger_File -INFO - user logged in into account
+2022-12-08 01:32:45,872 - logger_File -INFO - user should click on orders
+2022-12-08 01:32:49,880 - logger_File -INFO - user should see the first order
+2022-12-08 01:32:53,996 - logger_File -INFO - User should cancel order
+2022-12-08 01:32:58,097 - logger_File -INFO - user should see the option for return
+2022-12-08 01:33:02,207 - logger_File -INFO - user should click on the cancel
+2022-12-08 01:37:01,089 - logger_File -INFO - React App is equal to React App
+2022-12-08 01:37:01,246 - logger_File -INFO - user clicked on Sign In option
+2022-12-08 01:37:01,502 - logger_File -INFO - user entered email sohail@tek.com and password Shadab9166@
+2022-12-08 01:37:01,587 - logger_File -INFO - user clicked on login button
+2022-12-08 01:37:01,977 - logger_File -INFO - user logged in into account
+2022-12-08 01:37:02,055 - logger_File -INFO - user should click on orders
+2022-12-08 01:37:06,060 - logger_File -INFO - user should see the first order
+2022-12-08 01:37:10,168 - logger_File -INFO - User should cancel order
+2022-12-08 01:38:23,301 - logger_File -INFO - React App is equal to React App
+2022-12-08 01:38:23,459 - logger_File -INFO - user clicked on Sign In option
+2022-12-08 01:38:23,711 - logger_File -INFO - user entered email sohail@tek.com and password Shadab9166@
+2022-12-08 01:38:23,797 - logger_File -INFO - user clicked on login button
+2022-12-08 01:38:24,198 - logger_File -INFO - user logged in into account
+2022-12-08 01:38:24,276 - logger_File -INFO - user should click on orders
+2022-12-08 01:38:28,291 - logger_File -INFO - user should see the first order
+2022-12-08 01:38:32,412 - logger_File -INFO - User should cancel order
+2022-12-08 01:39:12,383 - logger_File -INFO - React App is equal to React App
+2022-12-08 01:39:12,551 - logger_File -INFO - user clicked on Sign In option
+2022-12-08 01:39:12,834 - logger_File -INFO - user entered email sohail@tek.com and password Shadab9166@
+2022-12-08 01:39:12,927 - logger_File -INFO - user clicked on login button
+2022-12-08 01:39:13,321 - logger_File -INFO - user logged in into account
+2022-12-08 01:39:13,409 - logger_File -INFO - user should click on orders
+2022-12-08 01:39:17,411 - logger_File -INFO - user should see the first order
+2022-12-08 01:39:21,552 - logger_File -INFO - User should cancel order
+2022-12-08 01:40:32,517 - logger_File -INFO - React App is equal to React App
+2022-12-08 01:40:32,680 - logger_File -INFO - user clicked on Sign In option
+2022-12-08 01:40:32,942 - logger_File -INFO - user entered email sohail@tek.com and password Shadab9166@
+2022-12-08 01:40:33,043 - logger_File -INFO - user clicked on login button
+2022-12-08 01:40:33,447 - logger_File -INFO - user logged in into account
+2022-12-08 01:40:33,536 - logger_File -INFO - user should click on orders
+2022-12-08 01:40:37,539 - logger_File -INFO - user should see the first order
+2022-12-08 01:40:41,665 - logger_File -INFO - User should cancel order
+2022-12-08 01:42:55,336 - logger_File -INFO - React App is equal to React App
+2022-12-08 01:42:55,517 - logger_File -INFO - user clicked on Sign In option
+2022-12-08 01:42:55,807 - logger_File -INFO - user entered email sohail@tek.com and password Shadab9166@
+2022-12-08 01:42:55,908 - logger_File -INFO - user clicked on login button
+2022-12-08 01:42:56,305 - logger_File -INFO - user logged in into account
+2022-12-08 01:42:56,394 - logger_File -INFO - user should click on orders
+2022-12-08 01:43:00,402 - logger_File -INFO - user should see the first order
+2022-12-08 01:43:04,530 - logger_File -INFO - User should cancel order
+2022-12-08 01:43:08,611 - logger_File -INFO - user should see the option for return
+2022-12-08 01:43:12,714 - logger_File -INFO - user should click on the cancel
+2022-12-08 01:43:16,745 - logger_File -INFO - user should see the message
+2022-12-08 22:13:23,333 - logger_File -INFO - React App is equal to React App
+2022-12-08 22:13:23,536 - logger_File -INFO - user clicked on Sign In option
+2022-12-08 22:13:23,812 - logger_File -INFO - user entered email sohail@tek.com and password Shadab9166@
+2022-12-08 22:13:23,922 - logger_File -INFO - user clicked on login button
+2022-12-08 22:13:24,324 - logger_File -INFO - user logged in into account
+2022-12-08 22:13:24,418 - logger_File -INFO - user should click on orders
+2022-12-08 22:13:28,422 - logger_File -INFO - user should see the first order
+2022-12-08 22:13:55,689 - logger_File -INFO - React App is equal to React App
+2022-12-08 22:13:55,869 - logger_File -INFO - user clicked on Sign In option
+2022-12-08 22:13:56,165 - logger_File -INFO - user entered email sohail@tek.com and password Shadab9166@
+2022-12-08 22:13:56,268 - logger_File -INFO - user clicked on login button
+2022-12-08 22:13:58,606 - logger_File -INFO - user logged in into account
+2022-12-08 22:13:58,702 - logger_File -INFO - user should click on orders
+2022-12-08 22:14:02,716 - logger_File -INFO - user should see the first order
+2022-12-08 22:14:06,859 - logger_File -INFO - User should click on the return order
+2022-12-08 22:14:06,991 - logger_File -INFO - User should select the opotion for item damaged
+2022-12-08 22:14:07,089 - logger_File -INFO - User should select the opotion for Fedex
+2022-12-08 22:14:07,188 - logger_File -INFO - User should select the opotion for Fedex
+2022-12-08 22:14:07,470 - logger_File -INFO - user should see the message
+2022-12-08 22:45:09,710 - logger_File -INFO - React App is equal to React App
+2022-12-08 22:45:09,888 - logger_File -INFO - user clicked on Sign In option
+2022-12-08 22:45:10,155 - logger_File -INFO - user entered email sohail@tek.com and password Shadab9166@
+2022-12-08 22:45:10,240 - logger_File -INFO - user clicked on login button
+2022-12-08 22:45:10,637 - logger_File -INFO - user logged in into account
+2022-12-08 22:45:10,729 - logger_File -INFO - user should click on orders
+2022-12-08 22:45:14,731 - logger_File -INFO - user should see the first order
+2022-12-08 22:45:18,835 - logger_File -INFO - user click at the reviewBtn 
+2022-12-08 22:46:09,994 - logger_File -INFO - React App is equal to React App
+2022-12-08 22:46:10,206 - logger_File -INFO - user clicked on Sign In option
+2022-12-08 22:46:10,505 - logger_File -INFO - user entered email sohail@tek.com and password Shadab9166@
+2022-12-08 22:46:10,606 - logger_File -INFO - user clicked on login button
+2022-12-08 22:46:11,013 - logger_File -INFO - user logged in into account
+2022-12-08 22:46:11,108 - logger_File -INFO - user should click on orders
+2022-12-08 22:46:15,116 - logger_File -INFO - user should see the first order
+2022-12-08 22:46:19,231 - logger_File -INFO - user click at the reviewBtn 
+2022-12-08 22:46:19,577 - logger_File -INFO - User should fill out the informatin
+2022-12-08 22:46:19,702 - logger_File -INFO - User click on submit
+2022-12-08 22:55:17,057 - logger_File -INFO - React App is equal to React App
+2022-12-08 22:55:17,198 - logger_File -INFO - user clicked on Sign In option
+2022-12-08 22:55:17,432 - logger_File -INFO - user entered email sohail@tek.com and password Shadab9166@
+2022-12-08 22:55:17,510 - logger_File -INFO - user clicked on login button
+2022-12-08 22:55:17,877 - logger_File -INFO - user logged in into account
+2022-12-08 22:55:17,957 - logger_File -INFO - user should click on orders
+2022-12-08 22:55:21,973 - logger_File -INFO - user should see the first order
+2022-12-08 22:55:26,078 - logger_File -INFO - user click at the reviewBtn 
+2022-12-08 22:55:26,303 - logger_File -INFO - User should fill out the informatin
+2022-12-08 22:55:26,391 - logger_File -INFO - User click on submit
+2022-12-08 22:58:38,375 - logger_File -INFO - React App is equal to React App
+2022-12-08 22:58:38,519 - logger_File -INFO - user clicked on Sign In option
+2022-12-08 22:58:38,759 - logger_File -INFO - user entered email sohail@tek.com and password Shadab9166@
+2022-12-08 22:58:38,847 - logger_File -INFO - user clicked on login button
+2022-12-08 22:58:39,206 - logger_File -INFO - user logged in into account
+2022-12-08 22:58:39,280 - logger_File -INFO - user should click on orders
+2022-12-08 22:58:43,295 - logger_File -INFO - user should see the first order
+2022-12-08 22:58:47,386 - logger_File -INFO - user click at the reviewBtn 
+2022-12-08 22:58:51,579 - logger_File -INFO - User should fill out the informatin
+2022-12-08 22:58:55,667 - logger_File -INFO - User click on submit
+2022-12-08 23:01:44,569 - logger_File -INFO - React App is equal to React App
+2022-12-08 23:01:44,702 - logger_File -INFO - user clicked on Sign In option
+2022-12-08 23:01:44,941 - logger_File -INFO - user entered email sohail@tek.com and password Shadab9166@
+2022-12-08 23:01:45,018 - logger_File -INFO - user clicked on login button
+2022-12-08 23:01:46,449 - logger_File -INFO - user logged in into account
+2022-12-08 23:01:46,525 - logger_File -INFO - user should click on orders
+2022-12-08 23:01:50,540 - logger_File -INFO - user should see the first order
+2022-12-08 23:01:54,644 - logger_File -INFO - user click at the reviewBtn 
+2022-12-08 23:02:02,942 - logger_File -INFO - User should fill out the informatin
+2022-12-08 23:02:07,025 - logger_File -INFO - User click on submit
+2022-12-08 23:02:11,061 - logger_File -INFO - User should see the message
+2022-12-20 14:13:07,578 - logger_File -INFO - React App is equal to React App
+2022-12-20 14:13:11,724 - logger_File -INFO - user click on all section
+2022-12-20 14:13:38,064 - logger_File -INFO - React App is equal to React App
+2022-12-20 14:15:08,923 - logger_File -INFO - React App is equal to React App
+2022-12-20 14:15:13,063 - logger_File -INFO - user click on all section
+2022-12-20 14:15:13,199 - logger_File -INFO - user On Electronics
+2022-12-20 14:15:16,758 - logger_File -INFO - React App is equal to React App
+2022-12-20 14:15:20,866 - logger_File -INFO - user click on all section
+2022-12-20 14:15:25,009 - logger_File -INFO - user On Computers
+2022-12-20 14:15:28,864 - logger_File -INFO - React App is equal to React App
+2022-12-20 14:15:32,973 - logger_File -INFO - user click on all section
+2022-12-20 14:15:37,108 - logger_File -INFO - user On Smart Home
+2022-12-20 14:15:47,493 - logger_File -INFO - React App is equal to React App
+2022-12-20 14:15:51,604 - logger_File -INFO - user click on all section
+2022-12-20 14:15:55,748 - logger_File -INFO - user On Sports
+2022-12-20 14:15:59,402 - logger_File -INFO - React App is equal to React App
+2022-12-20 14:16:03,519 - logger_File -INFO - user click on all section
+2022-12-20 14:16:07,660 - logger_File -INFO - user On Automotive
+2022-12-20 14:18:28,352 - logger_File -INFO - React App is equal to React App
+2022-12-20 14:18:32,520 - logger_File -INFO - user click on all section
+2022-12-20 14:18:32,674 - logger_File -INFO - user On Electronics
+2022-12-20 14:18:38,452 - logger_File -INFO - React App is equal to React App
+2022-12-20 14:18:42,601 - logger_File -INFO - user click on all section
+2022-12-20 14:18:46,748 - logger_File -INFO - user On Computers
+2022-12-20 14:18:57,221 - logger_File -INFO - React App is equal to React App
+2022-12-20 14:19:01,384 - logger_File -INFO - user click on all section
+2022-12-20 14:19:05,541 - logger_File -INFO - user On Smart Home
+2022-12-20 14:19:09,422 - logger_File -INFO - React App is equal to React App
+2022-12-20 14:19:13,580 - logger_File -INFO - user click on all section
+2022-12-20 14:19:17,722 - logger_File -INFO - user On Sports
+2022-12-20 14:19:21,914 - logger_File -INFO - React App is equal to React App
+2022-12-20 14:19:26,044 - logger_File -INFO - user click on all section
+2022-12-20 14:19:30,189 - logger_File -INFO - user On Automotive
